@@ -51,8 +51,7 @@ sections:
     design:
       view: article-grid
       columns: 3
-
-   - block: collection
+  - block: collection
     id: papers
     content:
       title: Preprints (arXiv)

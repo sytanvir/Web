@@ -22,10 +22,6 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 You can view the Games project here: You can view the Games project here:
 
-
-{{< readFile "project/games/index.md" >}}
-
-
 {{< youtube D2vj0WcvH5c >}}
 
 **Youtube**:

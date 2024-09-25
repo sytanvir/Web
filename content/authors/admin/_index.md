@@ -170,7 +170,7 @@ awards:
     url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb
     date: '2023-11-25'
     awarder: Stanford University
-    icon: fas fa-universityy
+    icon: "/icons/Ansys.svg"
     summary: |
       I build several projects with kaerl robot and python
   - title: 'Supervised Machine Learning Regression and Classification'

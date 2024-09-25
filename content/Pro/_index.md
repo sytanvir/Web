@@ -1,23 +1,26 @@
 ---
-title: Projects
-summary: My courses
-type: landing
+title: "Teaching"
+summary: "My courses"
+type: "landing"
 
 cascade:
   - _target:
-      kind: page
+      kind: "page"
     params:
       show_breadcrumb: true
 
 sections:
-  - block: collection
-    id: teaching
+  - block: "collection"
+    id: "teaching"
     content:
-      title: Teaching
+      title: "Teaching"
       filters:
         folders:
-          - teaching
+          - "teaching/cad"          # CAD projects
+          - "teaching/mechanical"   # Mechanical projects
+          - "teaching/python"       # Python projects
     design:
-      view: article-grid
-      columns: 3
+      view: "article-grid"
+      columns: 2
 ---
+

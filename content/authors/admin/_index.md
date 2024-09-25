@@ -152,7 +152,6 @@ languages:
 awards:
   - title: 'Stanford University’s Code in Place'
     url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb
-    certificate_url:https://codeinplace.stanford.edu/cip3/certificate/gqolsb
     date: '2023-11-25'
     awarder: Stanford University
     icon: stanford_university

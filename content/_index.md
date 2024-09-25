@@ -57,11 +57,11 @@ sections:
       title: Preprints (arXiv)
       filters:
         folders:
-          - publication
+          - preprints
         featured_only: true
     design:
       view: article-grid
-      columns: 3
+      columns: 2
 
   - block: collection
     content:
@@ -70,6 +70,7 @@ sections:
       filters:
         folders:
           - publication
+          - preprints
         exclude_featured: false
     design:
       view: citation

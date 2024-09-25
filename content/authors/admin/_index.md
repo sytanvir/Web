@@ -170,9 +170,10 @@ awards:
     url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb
     date: '2023-11-25'
     awarder: Stanford University
-    icon: "/icons/Ansys.svg"
+    icon: Ansys.svg
     summary: |
       I build several projects with kaerl robot and python
+
   - title: 'Supervised Machine Learning Regression and Classification'
     url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb
     certificate_url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb
@@ -184,6 +185,7 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
   - title: 'Programming for Everybody'
     url: https://www.coursera.org/account/accomplishments/certificate/ZNU47CCKYVNP
     certificate_url: https://www.datacamp.com
@@ -194,10 +196,19 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 
   - title: 'Autodesk Fusion 360'
-    url: https://www.coursera.org/account/accomplishments/certificate/ZNU47CCKYVNP
-    certificate_url: https://www.datacamp.com
+    url: https://www.linkedin.com/in/sytanvir/details/certifications/1635547379581/single-media-viewer?type=IMAGE&profileId=ACoAADHEWpgBrIgGdhd9R40gTmMySAi-7lAkuZM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BB6okBb1JS0Cne3lsYlc7Nw%3D%3D
+    certificate_url: https://www.linkedin.com/in/sytanvir/details/certifications/1635547379581/single-media-viewer?type=IMAGE&profileId=ACoAADHEWpgBrIgGdhd9R40gTmMySAi-7lAkuZM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BB6okBb1JS0Cne3lsYlc7Nw%3D%3D
     date: '2023-01-21'
-    awarder: University of Michigan 
+    awarder: Autodesk, Inc 
+    icon: Autodesk
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+  - title: 'Work Smarter with Microsoft Excel'
+    url: https://www.coursera.org/account/accomplishments/certificate/ZNU47CCKYVNP
+    certificate_url: https://www.coursera.org/account/accomplishments/certificate/ZNU47CCKYVNP
+    date: '2023-01-21'
+    awarder: Microsoft
     icon: coursera
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.

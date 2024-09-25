@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Tanvir 
+title: Sayed Tanvir Ahmed
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Sayed Tanvir
 
 # Full name (for SEO)
-first_name: Sayed tanvir
+first_name: Sayed Tanvir
 last_name: Ahmed
 
 # Status emoji
@@ -68,28 +68,42 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Undergraduate Thesis
+    company_name: Mechanical Engineering Department, SUST
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-01
+    date_end: 2024-01-15
+    summary: |2-
+      Responsibilities include:
+      - Structured entire research scheme under supervision to conduct thesis within timeframe
+      - Modelled field layout using geographical data, Filtered and processed data with Python, used SolarPILOT to carry out the simulation
+      - Processed and visualized data using OriginLab and Tecplot, wrote a thesis report, and presented a conference paper
+
+  - position: Research Assistant (Non-funded)
+    company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Designed the entire research methodology under supervision
+      - Modeled required solid and fluid geometries, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
+      - Implemented ANSYS Fluent for conducting numerical simulations
+      - Processed and visualized data using OriginLab, Tecplot and ANSYS CFD-Post, wrote a research paper
+
+  - position: Research Intern
+    company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-08-01
+    date_end: 2023-08-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Prepared Airfoil geometries, designed fluid domain, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
+      - Processed and visualized data using OriginLab and Tecplot, wrote multiple research paper, one poster paper accepted and two paper being reviewed
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

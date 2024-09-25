@@ -11,7 +11,7 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: pro
     content:
       title: Teaching
       filters:

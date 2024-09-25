@@ -20,7 +20,11 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-You can view the Games project here: {{< include "project/games/index.md" >}}
+You can view the Games project here: You can view the Games project here:
+
+
+{{< readFile "project/games/index.md" >}}
+
 
 {{< youtube D2vj0WcvH5c >}}
 

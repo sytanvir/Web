@@ -36,7 +36,9 @@ abstract: Renewable energy in the industrial sector is a key step in achieving l
 summary: The study finds that an inclined V-shape heliostat layout in hillside CSP systems yields higher optical efficiency than traditional layouts across various U.S. locations.
 
 tags:
-  - Large Language Models
+  - CFD
+  - Heat Exchanger
+  - Thermo-fluid
 
 # Display this page in the Featured widget?
 featured: true

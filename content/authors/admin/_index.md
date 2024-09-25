@@ -67,31 +67,21 @@ education:
       
       Courses included:
       - Presented research findings at international conferences (ICME)
-  - area: BSc Mechanical Engineering
-    institution: Shahjalal University of Science And Technology
-    date_start: 2019-01-10
-    date_end: 2024-01-15
-    GPA: 3.51/4.0
+      
+  - area: Higher Secondary Certificate (HSC)
+    institution: Notre Dame College, Mymensingh
+    date_start: 2016-06-11
+    date_end: 2018-04-11
+    GPA: 3.42/4.0
     summary: |
-      Thesis Title: Investigation on the potential of Hill Track Sites as solar fields for Concentrated Solar Power plants incorporating Optical Efficiency as the primary parameter.
+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
       GPA: 3.51/4.0
-      
-      Courses included:
-      - Presented research findings at international conferences (ICME)   
+         
 
-  - area: HSC 
-    institution: Notre Dame College, Mymensingh
-    date_start: 2016-06-11
-    date_end: 2018-04-11
-    summary: |
-
-    button:
-      #text: 'Read Thesis'
-      #url: 'https://example.com'
-      GPA: 3.42/4.0
+  
       
 work:
   - position: Undergraduate Thesis

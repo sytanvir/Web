@@ -36,7 +36,11 @@ abstract: Renewable energy in the industrial sector is a key step in achieving l
 summary: Ribs on a solar air heater's absorber plate enhance heat transfer by increasing turbulence and disrupting the boundary layer.
 
 tags:
-  - Large Language Models
+  - CFD
+  - Solar Air Heater
+  - Thermo-fluid
+  
+
 
 # Display this page in the Featured widget?
 featured: true

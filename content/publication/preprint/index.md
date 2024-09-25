@@ -25,7 +25,10 @@ abstract: When fossil fuel supplies can no longer be replenished and hence fossi
 summary: This study uses CFD simulations to analyze 16 configurations of the NACA6309 airfoil with trailing-edge flaps, finding that a 1° up-flap offers the best aerodynamic performance while the 10° down-flap performs the worst.
 
 tags:
-- Large Language Models
+  - CFD
+  - VAWT
+  - wind power
+  - Renewable energy
 
 featured: true
 

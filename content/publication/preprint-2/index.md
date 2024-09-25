@@ -23,21 +23,24 @@ abstract: Due to the augmentation of the significance of wind energy, giving a h
 summary: This study modifies the NACA 4412 airfoil's trailing edge thickness using CFD, finding that a 0.8% thickness offers optimal performance with improved lift and lift-to-drag ratio, while a 0.2% thickness reduces overall performance.
 
 tags:
-- Large Language Models
+  - CFD
+  - VAWT
+  - wind power
+  - Renewable energy
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://arxiv.org/pdf/2409.13922
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

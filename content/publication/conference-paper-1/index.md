@@ -38,6 +38,7 @@ summary: The study finds that an inclined V-shape heliostat layout in hillside C
 tags:
   - CSP
   - Solar Energy
+  - Renewable Energy
 
 # Display this page in the Featured widget?
 featured: true

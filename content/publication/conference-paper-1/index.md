@@ -26,13 +26,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['Conference']
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Mechanical Engineering
-publication_short: ICME
+publication: American Institute of Physics 
+publication_short: AIP
 
-abstract: Renewable energy in the industrial sector is a key step in achieving low-carbon production systems. Concentrated Solar Power (CSP) technologies can be used to generate electricity by converting sunlight energy to power a turbine. Solar Power Tower (SPT) has become more developed and well-liked in recent years on a commercial scale, despite the fact that parabolic trough is still the most well-known and widely used CSP technology. In this study, the inclined barren surfaces of hillside areas are taken as solar fields which are named as Hillside Concentrated Solar Powerplant (HCSP) system. For this, three different barren hilly areas located at United States have been selected where the solar irradiation is moderately higher. A simple inclined plane V-shape layout with 5100 heliostats is simulated for optical efficiency in each of the locations for four days of a year and three times of a day. These simulation results show that the inclined rectangular array type layout provides greater optical efficiency at any of the three locations investigated than the optical efficiencies of the traditional horizontal plane functional layouts.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: The study finds that an inclined V-shape heliostat layout in hillside CSP systems yields higher optical efficiency than traditional layouts across various U.S. locations.
+summary: Ribs on a solar air heater's absorber plate enhance heat transfer by increasing turbulence and disrupting the boundary layer.
 
 tags:
   - Large Language Models

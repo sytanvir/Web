@@ -20,31 +20,31 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: Mechanical Engineer and Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: SUST
+  - name: Shahjalal University of Science & Technology
     url: https://sust.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sytanvir.mech@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/sytanvir
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sytanvir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIQkfVICMRVGmDSkFNlrE0w%3D%3D
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0002-4907-031X
 
 interests:
   - Computational Fluid Dynamics
@@ -57,6 +57,7 @@ education:
     institution: Shahjalal University of Science And Technology
     date_start: 2019-01-10
     date_end: 2024-01-15
+    GPA: 3.51/4.0
     summary: |
       Thesis Title: Investigation on the potential of Hill Track Sites as solar fields for Concentrated Solar Power plants incorporating Optical Efficiency as the primary parameter.
     button:
@@ -66,6 +67,32 @@ education:
       
       Courses included:
       - Presented research findings at international conferences (ICME)
+  - area: BSc Mechanical Engineering
+    institution: Shahjalal University of Science And Technology
+    date_start: 2019-01-10
+    date_end: 2024-01-15
+    GPA: 3.51/4.0
+    summary: |
+      Thesis Title: Investigation on the potential of Hill Track Sites as solar fields for Concentrated Solar Power plants incorporating Optical Efficiency as the primary parameter.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+      GPA: 3.51/4.0
+      
+      Courses included:
+      - Presented research findings at international conferences (ICME)   
+
+  - area: HSC 
+    institution: Notre Dame College, Mymensingh
+    date_start: 2016-06-11
+    date_end: 2018-04-11
+    summary: |
+
+    button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+      GPA: 3.42/4.0
+      
 work:
   - position: Undergraduate Thesis
     company_name: Mechanical Engineering Department, SUST
@@ -129,11 +156,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Music
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Movies
         description: ''
         percent: 100
         icon: cat

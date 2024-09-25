@@ -75,10 +75,6 @@ education:
     GPA: 3.42/4.0
     summary: |
 
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-      GPA: 3.51/4.0
          
 
   

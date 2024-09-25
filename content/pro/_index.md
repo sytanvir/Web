@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Project Types
 summary: My courses
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: pro
     content:
-      title: Teaching
+      title: Project
       filters:
         folders:
           - pro

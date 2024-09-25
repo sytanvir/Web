@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Effects of Trailing Edge Thickness on NACA 4412 Airfoil Performance at Low Reynolds Numbers: A CFD Analysis"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2024-09-24T00:00:00Z"
+doi: "https://doi.org/10.48550/arXiv.2409.13922"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-09-24T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,13 +14,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "arXiv"
+publication_short: "arXiv"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Due to the augmentation of the significance of wind energy, giving a high priority to the \text{airfoil's} efficiency enhancement is obligatory. To improve the performance of airfoils, many impressive techniques are already invented. In this article, the trailing edge of the NACA 4412 airfoil is modified by changing the thickness. CFD is used in this study, which aids in the identification of several important details. For our investigation, we choose the reliable Spalart Almaras model and the Reynolds number is 300k. Overall, the results demonstrate that using \(0.8\%\) thickness at the trailing edge of the NACA 4412 airfoil is viable to obtain the best output. The predominant reason is that not only the better coefficient of lift but also the preferable lift-to-drag \(\frac{C_L}{C_D}\) ratio is found in this configuration. However, using \(0.2\%\) thickness at the trailing edge reduces performance as a whole. So, it is recommended to utilize \(0.2\%\) thickness on the trailing edge of the NACA 4412 airfoil.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study modifies the NACA 4412 airfoil's trailing edge thickness using CFD, finding that a 0.8% thickness offers optimal performance with improved lift and lift-to-drag ratio, while a 0.2% thickness reduces overall performance.
 
 tags:
 - Large Language Models

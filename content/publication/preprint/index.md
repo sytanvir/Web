@@ -1,12 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Improvement of NACA6309 Airfoil with Passive Air-Flow Control by using Trailing Edge Flap"
 authors:
+- Mahadi Hasan Shanto
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- A K M Ashikuzzaman
+date: "2024-09-24T00:00:00Z"
+doi: "https://doi.org/10.48550/arXiv.2409.14258"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-09-24T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "arXiv"
+publication_short: "arXiv"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: When fossil fuel supplies can no longer be replenished and hence fossil fuel power generation becomes outdated, wind energy will become a vital solution to the impending energy crisis. A horizontal-axis wind turbine is a widely used technology that is highly dependent on the design of high-performing airfoils. In this paper, we have studied the performance of the NACA6309 airfoil and designed it by modifying the airfoil with a trailing edge plain flap. Computational Fluid Dynamic (CFD) simulations are utilized for this purpose. We have designed sixteen configurations of NACA 6309 airfoil by using plain flaps at the trailing edge and studied their aerodynamic performance. After comparing the lift, drag, and lift-to-drag ratios, it is evident that the \(1^\circ\) up-flap configuration generates the best output. In addition, the \(10^\circ\) down flap provides the worst performance among all configurations. Finally, pressure contours and velocity contours around the airfoils are presented, which describe the overall characteristics.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study uses CFD simulations to analyze 16 configurations of the NACA6309 airfoil with trailing-edge flaps, finding that a 1° up-flap offers the best aerodynamic performance while the 10° down-flap performs the worst.
 
 tags:
 - Large Language Models

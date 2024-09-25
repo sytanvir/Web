@@ -47,9 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - CFD
-  - CSP
-  - Heat Exchanger
+  - Computational Fluid Dynamics
+  - Sustainable Energy (CSP, Wind)
+  - Thermo-fluid
+  - Bio-fluid
 
 education:
   - area: BSc Mechanical Engineering
@@ -115,11 +116,15 @@ skills:
       - name: ANSYS Fluent
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: wind
+      - name: ICEM CFD
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: grid
+      - name: SolarPILOT
+        description: ''
+        percent: 40
+        icon: sun
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -139,11 +144,9 @@ skills:
 
 languages:
   - name: English
+    percent: 80
+  - name: Bangla
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

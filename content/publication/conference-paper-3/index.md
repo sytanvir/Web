@@ -1,14 +1,13 @@
 ---
-title: 'Investigation of Optical Efficiency of the Concentrated Solar Power System Located on the Inclined Hillside Areas'
+title: 'Aerodynamic Effects of Leading-Edge Flap Angle on NACA4412 Airfoil Performance at Low Reynolds Numbers: A CFD Investigation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Anwoy Talukder Ranjak
   - admin
-  - A. K. M. Ashikuzzaman
-  - Tahmidul Haque Ruvo
+  - Ratul das
+  - Tripta Sarakr
 
 # Author notes (optional)
 author_notes:

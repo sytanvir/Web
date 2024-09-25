@@ -1,20 +1,22 @@
 ---
-title: 'An example conference paper'
+title: 'Investigation of Optical Efficiency of the Concentrated Solar Power System Located on the Inclined Hillside Areas'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Anwoy Talukder Ranjak
+  - Sayed Tanvir Ahmed
+  - A. K. M. Ashikuzzaman
+  - Tahmidul Haque Ruvo
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-06-13'
+doi: 'https://dx.doi.org/10.2139/ssrn.4862794'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -25,10 +27,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: International Conference on Mechanical Engineering
+publication_short: ICME
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Renewable energy in the industrial sector is a key step in achieving low-carbon production systems. Concentrated Solar Power (CSP) technologies can be used to generate electricity by converting sunlight energy to power a turbine. Solar Power Tower (SPT) has become more developed and well-liked in recent years on a commercial scale, despite the fact that parabolic trough is still the most well-known and widely used CSP technology. In this study, the inclined barren surfaces of hillside areas are taken as solar fields which are named as Hillside Concentrated Solar Powerplant (HCSP) system. For this, three different barren hilly areas located at United States have been selected where the solar irradiation is moderately higher. A simple inclined plane V-shape layout with 5100 heliostats is simulated for optical efficiency in each of the locations for four days of a year and three times of a day. These simulation results show that the inclined rectangular array type layout provides greater optical efficiency at any of the three locations investigated than the optical efficiencies of the traditional horizontal plane functional layouts.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

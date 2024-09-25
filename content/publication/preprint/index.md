@@ -30,16 +30,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#- name: Custom Link
+  #url: http://example.org
+url_pdf: https://arxiv.org/pdf/2409.14258
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -66,8 +66,8 @@ slides: example
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% callout note %}}  
+Click the **Slides** button to view the presentation, formatted with Markdown.  
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can include rich formatting like [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

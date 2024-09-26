@@ -87,6 +87,19 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  - block: collection
+    id: preprints  # Unique identifier for this block
+    content:
+      title: All Publications
+      text: ""  # You can add a description here if needed
+      filters:
+        folders:
+          - preprints
+        exclude_featured: false  # Include all items, regardless of featured status
+    design:
+      view: citation  # Change this to your preferred view, such as grid or list
+
     
   #- block: collection
   #  id: talks

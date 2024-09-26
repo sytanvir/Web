@@ -62,8 +62,9 @@ The Finite Difference Method (FDM) is a powerful numerical technique for solving
    \frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2} 
    $$
    {{< /math >}}
-   - \( u \): Temperature at a point in space and time.
-   - \( \alpha \): Thermal diffusivity.
+   - Where:
+     - \( u \): Temperature at a point in space and time.
+     - \( \alpha \): Thermal diffusivity of the material.
 
 2. **Discretization:**
    - Divide the spatial domain into \( n \) points \( x_1, x_2, \ldots, x_n \).
@@ -101,15 +102,16 @@ The Finite Difference Method (FDM) is a powerful numerical technique for solving
    \mathbf{K} = \frac{EA}{L} \begin{bmatrix} 1 & -1 \\ -1 & 1 \end{bmatrix} 
    $$
    {{< /math >}}
-   - Where \( E \) is Young's modulus, \( A \) is the cross-sectional area, and \( L \) is the length.
+   - Where:
+     - \( E \): Young's modulus,
+     - \( A \): Cross-sectional area,
+     - \( L \): Length of the bar.
 
 ---
 
 ### Conclusion
 
 Through this project, I successfully implemented the FDM to simulate heat transfer in solid bars while considering structural deflections. The mathematical framework and algorithmic approach not only provide a solution to the heat equation but also demonstrate the interplay between thermal and structural analysis in engineering applications.
-
----
 
 ## 3: Karel Robot (7 Mini Projects)
 - **Description:** A series of seven mini-projects utilizing the Karel Robot programming environment to introduce fundamental programming concepts.

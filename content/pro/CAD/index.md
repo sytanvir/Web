@@ -87,12 +87,4 @@ A gearbox adjusts torque and speed. The gearbox was designed and manufactured fo
   - Chain, Sprocket, Drive Shaft
 
 
-```go
-{{</* icon name="python" */>}} Python
-```
-
-renders as
-
-{{< icon name="python" >}} Python
-
 ## Did you find this page helpful? Consider sharing it 🙌

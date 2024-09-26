@@ -17,31 +17,28 @@ image:
 Welcome to my **Python Projects Showcase**! This portfolio features a selection of my projects developed using Python at Stanford University, illustrating my capabilities in software design, algorithm development, and simulation.
 
 ## Pendulum-Projectile Simulation on Solar Planets
+- **Project Repository:** [View Project](https://github.com/sytanvir/Pendulum-Projectile-Simulation-on-Solar-Planets.git)
 - **Description:** A sophisticated simulation that combines the dynamics of pendulum motion with projectile motion in a solar system context.
 - **Course:** Stanford University CS106A (2023)
-- **Technologies Used:** Python 3, Pygame
+- **Frameworks & Libraries:** Python 3, Canvas
 - **Key Features:**
   - Realistic simulation of pendulum and projectile dynamics.
-  - Visualization of gravitational interactions with different planetary bodies.
-- **Visuals:**
-  ![Pendulum-Projectile Simulation](pendulum_projectile_simulation.png)
-- **Project Repository:** [View Project](https://github.com/sytanvir/Pendulum-Projectile-Simulation-on-Solar-Planets.git)
+  ![Pendulum-Projectile Simulation](pendu.png)
+
 
 ## Finite Difference Method (FDM) for Heat Transfer
 - **Project Repository:** [View Project](https://github.com/sytanvir/FDM-Heat-Transfer.git)
 - **Description:** A sophisticated implementation of the Finite Difference Method (FDM) that numerically solves heat transfer problems by approximating differential equations with difference equations.
-- **Course:** Academic Project
-- **Technologies Used:** Python 3, NumPy, Matplotlib
+- **Course:** Academic Project 
+- **Frameworks & Libraries:** Python 3, NumPy, Matplotlib
 - **Key Features:**
-  - Accurate simulation of heat distribution over time in solid materials.
+  - Simulation of heat distribution in solid materials.
+  - Simulation of deflection in solid bar.
   - Flexibility to analyze both cylindrical and spherical coordinate systems.
-- **Visuals:**
   ![FDM Heat Transfer Simulation](fdm_heat_transfer_simulation.png)
 
 ### Heat Equation
-
 The one-dimensional heat equation is:
-
 {{< math >}}
 $$
 \frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2}
@@ -89,7 +86,7 @@ $$
 9. **Execution:** Run the algorithm.
 
 ## Karel Robot (7 Mini Projects)
-- **Project Repository:** [View Projects](your_project_link_here)
+- **Project Repository:** [View Projects](https://github.com/sytanvir/Karel-Robot.git)
 - **Description:** A series of seven mini-projects utilizing the Karel Robot programming environment to introduce fundamental programming concepts.
 - **Course:** Stanford University CS106A (2023)
 - **Key Features:**
@@ -104,15 +101,27 @@ $$
   - Spread Beepers
   - Stone Mason Karel
 - **Visuals:**
-  ![Karel Robot Projects](karel_robot_projects.png)
+  ![Karel Robot Projects](pythonKarel)
+
+## Graph Simulator
+- **Project Repository:** [View Project](https://github.com/sytanvir/Graph-Simulator.git)
+- **Description:** A versatile graph simulation tool that allows users to visualize and manipulate graph structures interactively.
+- **Course:** Stanford University CS106A (2023)
+- **Frameworks & Libraries:** Python 3, Canvas
+- **Key Features:**
+  - Fourier Transform Visualization: Analyzing Signal Frequencies
+  - Trigonometric Functions: Graphical Representations
+  - Linear Algebra in Action: Visualizing Vectors and Matrices
+- **Visuals:**
+  ![Graph Simulator](graph.jpg)
+
 ## Baby Snake
 - **Project Repository:** [View Project](your_project_link_here)
 - **Description:** A collection of engaging mini-games developed using Python, showcasing programming logic and design principles.
 - **Course:** Stanford University CS106A (2023)
-- **Technologies Used:** Python 3, Pygame
+- **Frameworks & Libraries:** Python 3, Canvas
 - **Key Features:**
-  - Includes various game genres: puzzles, arcade, and strategy.
-  - Focus on user experience and gameplay mechanics.
+  - Key Features: Classic gameplay with simple controls,  colorful graphics, score tracking.
 - **Visuals:**
   ![Baby Snake](graph.jpg)
 

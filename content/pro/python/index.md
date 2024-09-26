@@ -7,7 +7,7 @@ math: false
 tags:
   - Python 3
   - Karel 
-  - Programming
+  - CANVAS
 image:
   caption: 'Python'
 ---
@@ -100,7 +100,6 @@ $$
   - Piles
   - Spread Beepers
   - Stone Mason Karel
-- **Visuals:**
   ![Karel Robot Projects](pythonKarel.png)
 
 ## Graph Simulator
@@ -112,7 +111,6 @@ $$
   - Fourier Transform Visualization: Analyzing Signal Frequencies
   - Trigonometric Functions: Graphical Representations
   - Linear Algebra in Action: Visualizing Vectors and Matrices
-- **Visuals:**
   ![Graph Simulator](graph.jpg)
 
 ## Baby Snake
@@ -122,6 +120,5 @@ $$
 - **Frameworks & Libraries:** Python 3, Canvas
 - **Key Features:**
   - Key Features: Classic gameplay with simple controls,  colorful graphics, score tracking.
-- **Visuals:**
   ![Baby Snake](babysnake.jpg)
 

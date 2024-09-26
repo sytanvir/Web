@@ -17,7 +17,8 @@ The Gravity Light project demonstrates the design, analysis, manufacturing, and 
 ## Overview
 
 The **Gravity Light** project utilizes various components to convert gravitational energy into electrical power:
-
+![Gear Manufacturing Process](team.jpg)
+![Gear Manufacturing Process](overview.jpg)
 - **Weight**: A solid metal weight serves as the primary energy source, generating gravitational force to drive the system's operation.
 - **Rope**: A high-strength synthetic rope connects the weight to the motor, facilitating energy transfer as the weight descends.
 - **Gearbox**: Houses the gears and pinion, optimizing power transmission while minimizing friction and wear.
@@ -35,10 +36,6 @@ The **Gravity Light** project utilizes various components to convert gravitation
 
 We began by analyzing various gear ratios to maximize torque and efficiency in converting gravitational energy into electrical power. The power calculations were essential to determine the required energy for lighting.
 
-**Gear Ratio Diagram**:
-
-![Gear Ratio Diagram](assets/media/gear_ratio_diagram.jpg)
-
 **Power Calculation**:
 
 ---
@@ -55,7 +52,7 @@ The gears and pinions were produced using a combination of lathes, milling machi
 
 **Gear Manufacturing Process Image**:
 
-![Gear Manufacturing Process](assets/media/gear_manufacturing_process.jpg)
+![Gear Manufacturing Process](manufac.jpg)
 
 ---
 
@@ -65,10 +62,7 @@ The gears and pinions were produced using a combination of lathes, milling machi
 
 The gearbox assembly was completed with precise alignment and lubrication to minimize friction and optimize energy transfer. Proper lubrication and adjustment of gear mesh ensured smooth operation of the system.
 
-**Gearbox Assembly Image**:
-
-![Gearbox Assembly](assets/media/gearbox_assembly.jpg)
-
+![Gearbox Assembly](assembly.jpg)
 ---
 
 ### Motor and Electrical Integration
@@ -92,8 +86,6 @@ A motor was integrated to convert mechanical energy into electrical energy, whic
 To ensure the gearbox operated within the desired efficiency, we used a tachometer to measure gear RPM, ensuring accurate performance based on our design specifications.
 
 **Testing Gearbox Performance**:
-
-![Testing Gearbox](assets/media/testing_gearbox.jpg)
 
 ---
 

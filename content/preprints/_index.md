@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Preprints
 cms_exclude: true
 
 # View.

@@ -114,5 +114,5 @@ $$
   - Includes various game genres: puzzles, arcade, and strategy.
   - Focus on user experience and gameplay mechanics.
 - **Visuals:**
-  ![Baby Snake](games_collection.png)
+  ![Baby Snake](graph.jpg)
 

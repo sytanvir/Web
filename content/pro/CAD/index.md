@@ -25,6 +25,15 @@ On this page, you'll find some examples of the types of technical content that c
 
 {{< figure src="shock absorber.png" title="An elephant at sunset" >}}
 
+Developed a shock absorber for improved vehicle impact absorption and ride comfort.
+
+Software: SolidWorks 2019
+Parts Count: 4
+Key Components:
+Spring, Nut, Top Rod, Base
+Focus:
+Durability and efficient vibration absorption
+
 ## Heat Exchanger
 
 {{< figure src="HX.png" title="An elephant at sunset" >}}
@@ -50,7 +59,16 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Gear Box Design
 
-{{< figure src="gearbox.png" title="An elephant at sunset" >}}
+{{< figure src="gearbox.png" title="Gear Box" >}}
+
+Gearbox Design (Gravity Light Project)
+Designed a custom gearbox to adjust torque and speed for a low-cost lighting solution.
+
+Software: SolidWorks 2017
+Manufacturing Tools: Lathe, Milling, Grinding
+Key Specifications:
+5 gears, 5 pinions, 1 motor
+Optimized for efficient power transmission and minimal friction losses
 
 
 ## Steam Engine

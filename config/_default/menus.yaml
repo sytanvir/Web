@@ -15,7 +15,7 @@ main:
    # weight: 20
 
   - name: Experience
-    url: content/Ex/experience.md
+    url: content/Ex/experience
     weight: 20
 
   - name: Projects

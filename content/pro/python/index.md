@@ -32,7 +32,7 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
 ---
 
 ---
-title: Finite Difference Method (FDM) for Heat Transfer
+## Finite Difference Method (FDM) for Heat Transfer
 summary: Numerical solution of heat transfer problems using the Finite Difference Method.
 date: 2023-10-24
 type: docs
@@ -44,20 +44,80 @@ tags:
   - Heat Transfer
 image:
   caption: 'Finite Difference Method for Heat Transfer'
----
 
 ## Mathematical Background
 
-The Finite Difference Method (FDM) is a numerical technique used to approximate solutions to differential equations, such as the **heat equation**:
+The **Finite Difference Method (FDM)** is a numerical technique used to approximate solutions to partial differential equations (PDEs), such as the **heat equation**. The general form of the heat equation in one dimension is:
 
 {{< math >}}
-
 $$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
+\frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2}
 $$
-
 {{< /math >}}
+
+Where:
+- \( u(x, t) \) represents the temperature at a given point \( x \) and time \( t \).
+- \( \alpha \) is the thermal diffusivity of the material.
+
+### Discretization Using FDM
+
+To numerically solve the equation, we discretize both the time and space domains. Let the space domain be divided into \( n \) points, \( x_1, x_2, \ldots, x_n \), and the time domain into \( m \) steps, \( t_1, t_2, \ldots, t_m \).
+
+Using the **forward difference** for the time derivative and the **central difference** for the second spatial derivative, the heat equation can be approximated as:
+
+{{< math >}}
+$$
+\frac{u_i^{n+1} - u_i^n}{\Delta t} = \alpha \frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{\Delta x^2}
+$$
+{{< /math >}}
+
+Where:
+- \( u_i^n \) is the temperature at position \( x_i \) and time \( t_n \).
+- \( \Delta t \) is the time step.
+- \( \Delta x \) is the space step.
+
+### Rearranging for the Next Time Step
+
+The above equation can be rearranged to compute the temperature at the next time step, \( u_i^{n+1} \):
+
+{{< math >}}
+$$
+u_i^{n+1} = u_i^n + \alpha \frac{\Delta t}{\Delta x^2} \left( u_{i+1}^n - 2u_i^n + u_{i-1}^n \right)
+$$
+{{< /math >}}
+
+This formula allows us to iteratively compute the temperature at each point for the next time step based on the current time step.
+
+### Boundary and Initial Conditions
+
+For the problem to be well-posed, we need boundary and initial conditions. For example:
+- **Initial condition**: We assume the temperature distribution at \( t = 0 \) is known, such as \( u(x, 0) = f(x) \).
+- **Boundary conditions**: These can be fixed (Dirichlet), like \( u(0, t) = u(L, t) = 0 \), or more complex types, depending on the problem setup.
+
+### Stability Condition
+
+To ensure numerical stability, the following condition must be met:
+
+{{< math >}}
+$$
+\frac{\alpha \Delta t}{\Delta x^2} \leq \frac{1}{2}
+$$
+{{< /math >}}
+
+If this condition is not satisfied, the solution may become unstable, leading to large errors or divergence.
+
+### Algorithm Outline
+
+1. Discretize the spatial domain into \( n \) points and the time domain into \( m \) steps.
+2. Initialize the temperature distribution \( u(x, 0) \) according to the initial condition.
+3. Apply boundary conditions at each time step.
+4. Use the finite difference formula to compute the temperature at the next time step \( t_{n+1} \) based on the previous step \( t_n \).
+5. Repeat until the desired final time \( T \) is reached.
+
+### Summary
+
+The **Finite Difference Method (FDM)** provides a simple yet powerful way to solve heat transfer problems by approximating derivatives using differences. While easy to implement, care must be taken with stability conditions and boundary values to ensure accurate results.
+
 
 ---
 

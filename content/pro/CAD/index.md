@@ -22,45 +22,46 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Gear Box Design
 
-{{</* video src="assets/media/a.mp4" controls="yes" */>}}
+{{< figure src="gearbox.png" title="An elephant at sunset" >}}
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< youtube D2vj0WcvH5c >}}
-
-**Youtube**:
-
-    {{</* youtube w7Ft2ymGmfc */>}}
-
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
 
 ## Shock Absorber
 
+{{< figure src="shock absorber.png" title="An elephant at sunset" >}}
+
 ## Heat Exchanger
 
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
+{{< figure src="HX.png" title="An elephant at sunset" >}}
+
 
 ## Steam Engine
 
+{{< figure src="steam engine.png" title="An elephant at sunset" >}}
+
 ## Landing Gear
+
+{{< figure src="landing.png" title="An elephant at sunset" >}}
 
 ## Ic Engine
 
+{{< figure src="ic.png" title="Ic Engine" >}}
+
 ## Heat Exchanger
 
+{{< figure src="fin hx.png" title="Heat Exchanger" >}}
+
 ## Chain Sprocket
+
+{{< figure src="chain.png" title="An Chain Sprocket" >}}
+
 ##  Aircraft
+{{< figure src="aicraft.png" title="An aicraft" >}}
 
+## Geneva Mechanism
 
-## Inline Images
+{{< figure src="geneva.png" title="geneva" >}}
+
 
 ```go
 {{</* icon name="python" */>}} Python

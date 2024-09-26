@@ -1,11 +1,15 @@
 ---
 title: CAD
-summary: Easily learn JavaScript in 10 minutes!
+summary: Computer Aided Design
 date: 2023-10-24
 type: docs
 math: false
 tags:
-  - JavaScript
+  - CAD
+  - Solidworks
+  - Fusion 360
+  - Design Modeler
+  - Spaceclaim
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

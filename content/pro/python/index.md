@@ -6,6 +6,9 @@ type: docs
 math: false
 tags:
   - Python
+  - Canvas 
+  - Karel Robot
+  - Graphics 
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

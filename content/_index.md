@@ -64,16 +64,17 @@ sections:
       columns: 2
       
   - block: collection
-    id: papers
+    id: projects
     content:
-      title: Preprints (arXiv)
+      title: Featured Projects
       filters:
         folders:
-          - pro
-        featured_only: true
+          - pro # Make sure this folder contains your project files
+      limit: 3 # Ensure that only 3 projects are displayed
     design:
       view: article-grid
-      columns: 3
+      columns: 3 # Display 3 projects side by side
+
 
   - block: collection
     content:

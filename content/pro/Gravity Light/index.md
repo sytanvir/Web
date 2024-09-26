@@ -41,7 +41,7 @@ We began by analyzing various gear ratios to maximize torque and efficiency in c
 
 **Power Calculation**:
 
-
+---
 
 ## Manufacturing Process
 

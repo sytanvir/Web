@@ -45,67 +45,104 @@ tags:
 image:
   caption: 'Finite Difference Method for Heat Transfer'
 
-## Finite Difference Method (FDM) for Heat Transfer
+## Finite Difference Method (FDM)
 
-### Overview
+The Finite Difference Method (FDM) is a numerical technique used to solve differential equations by approximating them with difference equations. It is particularly useful in heat transfer analysis, where the heat equation governs the temperature distribution over time and space.
 
-The Finite Difference Method (FDM) is a powerful numerical technique for solving partial differential equations, particularly useful for analyzing heat transfer problems. This project demonstrates the application of FDM to model the heat distribution in solid bars, integrating both heat transfer and structural deflection analysis.
+### Heat Equation
 
----
+The one-dimensional heat equation is given by:
 
-### Algorithm
+{{< math >}}
+$$
+\frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2}
+$$
+{{< /math >}}
 
-1. **Define the Problem:**
-   - Consider the heat equation:
+Where:
+- \( u \) is the temperature at a given point in space and time.
+- \( \alpha \) is the thermal diffusivity of the material.
+- \( \frac{\partial u}{\partial t} \) is the rate of change of temperature over time.
+- \( \frac{\partial^2 u}{\partial x^2} \) is the second spatial derivative of temperature.
+
+### Discretization Using FDM
+
+To solve this equation numerically, we discretize the domain into a grid of points. The time derivative can be approximated using a forward difference, and the spatial derivative using a central difference:
+
+{{< math >}}
+$$
+\frac{u_i^{n+1} - u_i^n}{\Delta t} = \alpha \frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{\Delta x^2}
+$$
+{{< /math >}}
+
+Rearranging gives us the iterative update formula:
+
+{{< math >}}
+$$
+u_i^{n+1} = u_i^n + \frac{\alpha \Delta t}{\Delta x^2} (u_{i+1}^n - 2u_i^n + u_{i-1}^n)
+$$
+{{< /math >}}
+
+### Algorithm for Heat Transfer Analysis
+
+1. **Initialization:** 
+   - Print a welcome message and define thermal properties: \( h_a \), \( T_a \), \( k \), \( g \).
+
+2. **User Input:** 
+   - Prompt the user for:
+     - Convective Heat Transfer Coefficient \((h_a)\)
+     - Ambient Temperature \((T_a)\)
+     - Thermal Conductivity \((k)\)
+     - Heat Generation \((g)\)
+     - Domain type (cylindrical/spherical)
+     - Domain length \((L)\)
+     - Number of divisions \((n)\)
+
+3. **Discretization:** 
+   - Calculate step size: 
    {{< math >}}
-   $$ 
-   \frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2} 
+   $$
+   h = \frac{L}{n}
    $$
    {{< /math >}}
-   - Where:
-     - \( u \): Temperature at a point in space and time.
-     - \( \alpha \): Thermal diffusivity of the material.
+   - Set \( s \) based on domain type:
+     - **Cylindrical:** 
+     {{< math >}}
+     $$
+     s = -\frac{g \cdot h^2}{4k}
+     $$
+     {{< /math >}}
+     - **Spherical:** 
+     {{< math >}}
+     $$
+     s = -\frac{g \cdot h^2}{6k}
+     $$
+     {{< /math >}}
 
-2. **Discretization:**
-   - Divide the spatial domain into \( n \) points \( x_1, x_2, \ldots, x_n \).
-   - Divide the time domain into \( m \) steps \( t_1, t_2, \ldots, t_m \).
+4. **Matrix Setup:** 
+   - Construct a length vector from \( 0 \) to \( L \).
+   - Initialize coefficient matrix \(\text{matA}\) and append boundary conditions.
 
-3. **Finite Difference Approximations:**
-   - Use the forward difference for the time derivative and the central difference for the spatial derivative:
+5. **Coefficient Matrix Construction:** 
+   - Iterate through internal nodes to calculate and append coefficients \( a, b, c \) to \(\text{matA}\).
+   - Append boundary condition for \( r = L \).
+
+6. **Constant Vector Construction:** 
+   - Create constant vector \(\text{matB}\) with initial value \( s \) and append values for internal nodes and boundary conditions.
+
+7. **Matrix Calculations:** 
+   - Compute the inverse of \(\text{matA}\) and solve for \( u \) using:
    {{< math >}}
-   $$ 
-   \frac{u_{i}^{n+1} - u_{i}^{n}}{\Delta t} = \alpha \frac{u_{i+1}^{n} - 2u_{i}^{n} + u_{i-1}^{n}}{\Delta x^2} 
+   $$
+   u = \text{inmatA} \cdot \text{matB}
    $$
    {{< /math >}}
 
-4. **Update Temperature Iteratively:**
-   - Rearrange the equation to compute the temperature at each point:
-   {{< math >}}
-   $$ 
-   u_{i}^{n+1} = u_{i}^{n} + \frac{\alpha \Delta t}{\Delta x^2} (u_{i+1}^{n} - 2u_{i}^{n} + u_{i-1}^{n}) 
-   $$
-   {{< /math >}}
+8. **Visualization:** 
+   - Convert solution \( u \) to a NumPy array and plot the temperature distribution using Matplotlib.
 
-5. **Boundary and Initial Conditions:**
-   - Set initial temperature distribution and define boundary conditions (e.g., fixed temperature or insulated ends).
-
-6. **Stiffness Matrix (for Structural Analysis):**
-   - The stiffness matrix \( \mathbf{K} \) relates forces and displacements in the system:
-   {{< math >}}
-   $$ 
-   \mathbf{F} = \mathbf{K} \mathbf{u} 
-   $$
-   {{< /math >}}
-   - For a 1D bar element:
-   {{< math >}}
-   $$ 
-   \mathbf{K} = \frac{EA}{L} \begin{bmatrix} 1 & -1 \\ -1 & 1 \end{bmatrix} 
-   $$
-   {{< /math >}}
-   - Where:
-     - \( E \): Young's modulus,
-     - \( A \): Cross-sectional area,
-     - \( L \): Length of the bar.
+9. **Execution:** 
+   - Run the main function to execute the algorithm.
 
 ---
 

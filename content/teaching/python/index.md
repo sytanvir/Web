@@ -92,31 +92,8 @@ Example **multi-line math** using the math linebreak (`\\`):
 
 ```latex
 {{</* math */>}}
-$$ \frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2} $$
-{{</* /math */>}}
-
-Where:
-- \( u(x,t) \) is the temperature as a function of position \(x\) and time \(t\),
-- \( \alpha \) is the thermal diffusivity of the material.
-
-### Discretization
-
-Using finite differences, we can approximate the partial derivatives with:
-
-{{</* math */>}}
-$$ \frac{\partial u}{\partial t} \approx \frac{u_i^{n+1} - u_i^n}{\Delta t} $$
-{{</* /math */>}}
-
-and
-
-{{</* math */>}}
-$$ \frac{\partial^2 u}{\partial x^2} \approx \frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{\Delta x^2} $$
-{{</* /math */>}}
-
-Thus, the heat equation becomes:
-
-{{</* math */>}}
-$$ u_i^{n+1} = u_i^n + \alpha \Delta t \left( \frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{\Delta x^2} \right) $$
+$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
+1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
 {{</* /math */>}}
 ```
 

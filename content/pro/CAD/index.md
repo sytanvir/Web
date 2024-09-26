@@ -25,11 +25,6 @@ On this page, you'll find some examples of the types of technical content that c
 
 {{< figure src="shock absorber.png" title="An elephant at sunset" >}}
 
-Developed a shock absorber for improved vehicle impact absorption and ride comfort.
-
-Software: SolidWorks 2019
-Parts Count: 4
-Key Components:
 Spring, Nut, Top Rod, Base
 Focus:
 Durability and efficient vibration absorption

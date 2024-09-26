@@ -45,79 +45,69 @@ tags:
 image:
   caption: 'Finite Difference Method for Heat Transfer'
 
-## Mathematical Background
+## Finite Difference Method (FDM) for Heat Transfer
 
-The **Finite Difference Method (FDM)** is a numerical technique used to approximate solutions to partial differential equations (PDEs), such as the **heat equation**. The general form of the heat equation in one dimension is:
+### Overview
 
-{{< math >}}
-$$
-\frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2}
-$$
-{{< /math >}}
+The Finite Difference Method (FDM) is a powerful numerical technique for solving partial differential equations, particularly useful for analyzing heat transfer problems. This project demonstrates the application of FDM to model the heat distribution in solid bars, integrating both heat transfer and structural deflection analysis.
 
-Where:
-- \( u(x, t) \) represents the temperature at a given point \( x \) and time \( t \).
-- \( \alpha \) is the thermal diffusivity of the material.
+---
 
-### Discretization Using FDM
+### Algorithm
 
-To numerically solve the equation, we discretize both the time and space domains. Let the space domain be divided into \( n \) points, \( x_1, x_2, \ldots, x_n \), and the time domain into \( m \) steps, \( t_1, t_2, \ldots, t_m \).
+1. **Define the Problem:**
+   - Consider the heat equation:
+   {{< math >}}
+   $$ 
+   \frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2} 
+   $$
+   {{< /math >}}
+   - \( u \): Temperature at a point in space and time.
+   - \( \alpha \): Thermal diffusivity.
 
-Using the **forward difference** for the time derivative and the **central difference** for the second spatial derivative, the heat equation can be approximated as:
+2. **Discretization:**
+   - Divide the spatial domain into \( n \) points \( x_1, x_2, \ldots, x_n \).
+   - Divide the time domain into \( m \) steps \( t_1, t_2, \ldots, t_m \).
 
-{{< math >}}
-$$
-\frac{u_i^{n+1} - u_i^n}{\Delta t} = \alpha \frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{\Delta x^2}
-$$
-{{< /math >}}
+3. **Finite Difference Approximations:**
+   - Use the forward difference for the time derivative and the central difference for the spatial derivative:
+   {{< math >}}
+   $$ 
+   \frac{u_{i}^{n+1} - u_{i}^{n}}{\Delta t} = \alpha \frac{u_{i+1}^{n} - 2u_{i}^{n} + u_{i-1}^{n}}{\Delta x^2} 
+   $$
+   {{< /math >}}
 
-Where:
-- \( u_i^n \) is the temperature at position \( x_i \) and time \( t_n \).
-- \( \Delta t \) is the time step.
-- \( \Delta x \) is the space step.
+4. **Update Temperature Iteratively:**
+   - Rearrange the equation to compute the temperature at each point:
+   {{< math >}}
+   $$ 
+   u_{i}^{n+1} = u_{i}^{n} + \frac{\alpha \Delta t}{\Delta x^2} (u_{i+1}^{n} - 2u_{i}^{n} + u_{i-1}^{n}) 
+   $$
+   {{< /math >}}
 
-### Rearranging for the Next Time Step
+5. **Boundary and Initial Conditions:**
+   - Set initial temperature distribution and define boundary conditions (e.g., fixed temperature or insulated ends).
 
-The above equation can be rearranged to compute the temperature at the next time step, \( u_i^{n+1} \):
+6. **Stiffness Matrix (for Structural Analysis):**
+   - The stiffness matrix \( \mathbf{K} \) relates forces and displacements in the system:
+   {{< math >}}
+   $$ 
+   \mathbf{F} = \mathbf{K} \mathbf{u} 
+   $$
+   {{< /math >}}
+   - For a 1D bar element:
+   {{< math >}}
+   $$ 
+   \mathbf{K} = \frac{EA}{L} \begin{bmatrix} 1 & -1 \\ -1 & 1 \end{bmatrix} 
+   $$
+   {{< /math >}}
+   - Where \( E \) is Young's modulus, \( A \) is the cross-sectional area, and \( L \) is the length.
 
-{{< math >}}
-$$
-u_i^{n+1} = u_i^n + \alpha \frac{\Delta t}{\Delta x^2} \left( u_{i+1}^n - 2u_i^n + u_{i-1}^n \right)
-$$
-{{< /math >}}
+---
 
-This formula allows us to iteratively compute the temperature at each point for the next time step based on the current time step.
+### Conclusion
 
-### Boundary and Initial Conditions
-
-For the problem to be well-posed, we need boundary and initial conditions. For example:
-- **Initial condition**: We assume the temperature distribution at \( t = 0 \) is known, such as \( u(x, 0) = f(x) \).
-- **Boundary conditions**: These can be fixed (Dirichlet), like \( u(0, t) = u(L, t) = 0 \), or more complex types, depending on the problem setup.
-
-### Stability Condition
-
-To ensure numerical stability, the following condition must be met:
-
-{{< math >}}
-$$
-\frac{\alpha \Delta t}{\Delta x^2} \leq \frac{1}{2}
-$$
-{{< /math >}}
-
-If this condition is not satisfied, the solution may become unstable, leading to large errors or divergence.
-
-### Algorithm Outline
-
-1. Discretize the spatial domain into \( n \) points and the time domain into \( m \) steps.
-2. Initialize the temperature distribution \( u(x, 0) \) according to the initial condition.
-3. Apply boundary conditions at each time step.
-4. Use the finite difference formula to compute the temperature at the next time step \( t_{n+1} \) based on the previous step \( t_n \).
-5. Repeat until the desired final time \( T \) is reached.
-
-### Summary
-
-The **Finite Difference Method (FDM)** provides a simple yet powerful way to solve heat transfer problems by approximating derivatives using differences. While easy to implement, care must be taken with stability conditions and boundary values to ensure accurate results.
-
+Through this project, I successfully implemented the FDM to simulate heat transfer in solid bars while considering structural deflections. The mathematical framework and algorithmic approach not only provide a solution to the heat equation but also demonstrate the interplay between thermal and structural analysis in engineering applications.
 
 ---
 

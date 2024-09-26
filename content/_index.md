@@ -51,8 +51,9 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
-    id: papers
+    id: preprints
     content:
       title: Preprints (arXiv)
       filters:

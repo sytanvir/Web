@@ -62,6 +62,41 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
   ![Karel Robot Projects](karel_robot_projects.png)
 - **Project Repository:** [View Projects](your_project_link_here)
 
+```python
+    ### Example Code:
+from karel.stanfordkarel import *
+
+def main():
+    """
+    Karel moves along a row, painting each corner randomly with blue or red.
+    Then, Karel returns to the starting position.
+    """
+    while front_is_clear():
+        paint_random_corner()
+        move()
+    paint_random_corner()
+    return_to_start()
+
+def paint_random_corner():
+    if random():
+        paint_corner("blue")
+    else:
+        paint_corner("red")
+
+def return_to_start():
+    turn_around()
+    while front_is_clear():
+        move()
+    turn_around()
+
+def turn_around():
+    for _ in range(2):
+        turn_left()
+
+if __name__ == '__main__':
+    main()
+    ```
+
 ---
 
 ## 4: Graph Simulator

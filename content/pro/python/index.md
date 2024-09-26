@@ -35,7 +35,7 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
   - Simulation of heat distribution in solid materials.
   - Simulation of deflection in solid bar.
   - Flexibility to analyze both cylindrical and spherical coordinate systems.
-  ![FDM Heat Transfer Simulation](fdm_heat_transfer_simulation.png)
+  ![FDM Heat Transfer Simulation](Fig.3.PNG)
 
 ### Heat Equation
 The one-dimensional heat equation is:
@@ -101,7 +101,7 @@ $$
   - Spread Beepers
   - Stone Mason Karel
 - **Visuals:**
-  ![Karel Robot Projects](pythonKarel)
+  ![Karel Robot Projects](pythonKarel.png)
 
 ## Graph Simulator
 - **Project Repository:** [View Project](https://github.com/sytanvir/Graph-Simulator.git)
@@ -123,5 +123,5 @@ $$
 - **Key Features:**
   - Key Features: Classic gameplay with simple controls,  colorful graphics, score tracking.
 - **Visuals:**
-  ![Baby Snake](graph.jpg)
+  ![Baby Snake](babysnake.jpg)
 

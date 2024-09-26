@@ -23,7 +23,9 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-![Description of the Image](/assets/media/your-image-file.png)
+![Description of the Image](/assets/media/HX.png)
+
+
 
 You can view the Games project here: You can view the Games project here:
 

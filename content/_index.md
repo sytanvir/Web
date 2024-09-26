@@ -82,7 +82,6 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
           - preprints
         exclude_featured: false
     design:

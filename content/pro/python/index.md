@@ -16,7 +16,6 @@ image:
 
 Welcome to my **Python Projects Showcase**! This portfolio features a selection of my projects developed using Python at Stanford University, illustrating my capabilities in software design, algorithm development, and simulation.
 
----
 ## Pendulum-Projectile Simulation on Solar Planets
 - **Description:** A sophisticated simulation that combines the dynamics of pendulum motion with projectile motion in a solar system context.
 - **Course:** Stanford University CS106A (2023)
@@ -28,9 +27,6 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
   ![Pendulum-Projectile Simulation](pendulum_projectile_simulation.png)
 - **Project Repository:** [View Project](https://github.com/sytanvir/Pendulum-Projectile-Simulation-on-Solar-Planets.git)
 
----
-
----
 ## Finite Difference Method (FDM) for Heat Transfer
 - **Project Repository:** [View Project](https://github.com/sytanvir/FDM-Heat-Transfer.git)
 - **Description:** A sophisticated implementation of the Finite Difference Method (FDM) that numerically solves heat transfer problems by approximating differential equations with difference equations.
@@ -92,8 +88,6 @@ $$
 8. **Visualization:** Plot temperature distribution.
 9. **Execution:** Run the algorithm.
 
-
-
 ## Karel Robot (7 Mini Projects)
 - **Project Repository:** [View Projects](your_project_link_here)
 - **Description:** A series of seven mini-projects utilizing the Karel Robot programming environment to introduce fundamental programming concepts.
@@ -112,50 +106,3 @@ $$
 - **Visuals:**
   ![Karel Robot Projects](karel_robot_projects.png)
 
-```python
-    ### Beyond Fill Karel
-from karel.stanfordkarel import *
-
-def main():
-    """
-    Karel moves forward and places a beeper in each corner.
-    """
-    while front_is_clear():
-        put_beeper()  # Place a beeper
-        move()        # Move forward
-
-    put_beeper()  # Place a beeper in the last corner
-
-if __name__ == '__main__':
-    main()
-  ```
----
-## Graph Simulator
-- **Project Repository:** [View Project](your_project_link_here)
-- **Description:** A versatile graph simulation tool that allows users to visualize and manipulate graph structures interactively.
-- **Course:** Stanford University CS106A (2023)
-- **Technologies Used:** Python 3, Matplotlib
-- **Key Features:**
-  - Interactive UI for adding and removing nodes and edges.
-  - Visualization of graph algorithms in real-time.
-- **Visuals:**
-  ![Graph Simulator](graph_simulator.png)
-
----
-
-## Games (Baby Snake) 
-- **Project Repository:** [View Project](your_project_link_here)
-- **Description:** A collection of engaging mini-games developed using Python, showcasing programming logic and design principles.
-- **Course:** Stanford University CS106A (2023)
-- **Technologies Used:** Python 3, Pygame
-- **Key Features:**
-  - Includes various game genres: puzzles, arcade, and strategy.
-  - Focus on user experience and gameplay mechanics.
-- **Visuals:**
-  ![Baby Snake](games_collection.png)
-
----
-
-## Conclusion
-
-Thank you for exploring my Python Projects Showcase! I am dedicated to continuous learning and improvement in software development. If you have any questions or feedback, please feel free to reach out.

@@ -7,7 +7,7 @@ design:
   spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
-
+sections:
 # Page sections
   - block: resume-skills
     content:

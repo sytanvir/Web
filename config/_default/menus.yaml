@@ -13,11 +13,9 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-
   - name: Education
     url: education/
     weight: 20
-
   - name: Projects
     url: pro/
     weight: 30

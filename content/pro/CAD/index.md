@@ -14,67 +14,77 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
-
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
+Computer-Aided Design (CAD) is software used to create precise 2D and 3D models, enabling efficient design, analysis, and optimization of products across engineering and architectural fields. It enhances accuracy, speeds up development, and facilitates collaboration.
 
 ## Shock Absorber
-
-{{< figure src="shock absorber.png" title="An elephant at sunset" >}}
-
-Spring, Nut, Top Rod, Base
-Focus:
-Durability and efficient vibration absorption
-
+{{< figure src="shock absorber.png" title="" >}}
+A shock absorber dampens and absorbs vehicle impact and vibrations, ensuring a smoother ride.
+- Software: SolidWorks 2019
+- Parts Count: 4
+- Key Components:
+  - Spring, Nut, Top Rod, Base
 ## Heat Exchanger
-
 {{< figure src="HX.png" title="An elephant at sunset" >}}
-
+An AC heat exchanger cools indoor air by transferring heat to refrigerant, essential in air conditioning systems.
+- Software: SolidWorks 2019
+- Parts Count: 8
+- Key Components:
+  - Cooling Plate, Support Rod, SS End Plates, C-Type Pipe, Inlet/Outlet Pipes
 ## Ic Engine
-
 {{< figure src="ic.png" title="Ic Engine" >}}
-
+Internal combustion engines convert fuel into mechanical energy through combustion, powering vehicles and machinery.
+- Software: SolidWorks 2017
+- Parts Count: 12
+- Subassemblies: 2
+- Key Components:
+  - Piston, Crankshaft, Camshaft, Intake/Exhaust Valves, Connecting Rod, Cylinder Head, Gear
 ## Landing Gear
-
 {{< figure src="landing.png" title="An elephant at sunset" >}}
-
+Landing gear supports an aircraft during landing, takeoff, and on the ground, providing stability and shock absorption.
+- Software: SolidWorks 2017
+- Parts Count: 5
+- Key Components:
+  - Shock Absorber (Strut), Wheels, Common Bus
 ##  Aircraft
 {{< figure src="aicraft.png" title="An aicraft" >}}
-
+XFLR5 is a software tool used for the analysis and design of airfoils, wings, and planes, based on XFOILâs aerodynamic analysis capabilities.
+- Software: XFLR5, SolidWorks 2017
+- Key Components:
+  - NACA 4412 Airfoil, Main Wing, Body, Rear Wing
 ## Geneva Mechanism
-
 {{< figure src="geneva.png" title="geneva" >}}
-
+The Geneva mechanism converts continuous rotation into intermittent motion.
+- Software: SolidWorks 2017
+- Parts Count: 7
+- Key Components:
+  - Base, Crank, Camshaft, Locking Disk, Pin, Shaft, Wheel
 ## Heat Exchanger
-
 {{< figure src="fin hx.png" title="Heat Exchanger" >}}
-
+A heat exchanger transfers heat between fluids, vital for refrigeration and HVAC systems.
+- Software: SolidWorks 2017, SpaceClaim
+- Key Components:
+  - Fins, Tubes
 ## Gear Box Design
-
 {{< figure src="gearbox.png" title="Gear Box" >}}
-
-
-Designed a custom gearbox to adjust torque and speed for a low-cost lighting solution.
-
+A gearbox adjusts torque and speed. The gearbox was designed and manufactured for the project Gravity Light. [Academic project under MEE-368 course]
 - Software: SolidWorks 2017
 - Manufacturing Tools: Lathe, Milling, Grinding
 - Key Specifications:
   - 5 gears, 5 pinions, 1 motor
--Optimized for efficient power transmission and minimal friction losses
-
 ## Steam Engine
-
 {{< figure src="steam engine.png" title="An elephant at sunset" >}}
-
-
+- Software: SolidWorks 2017
+- Parts Count: 47
+- Subassemblies: 5
+- Key Components:
+  -Piston, Cylinder, Steam Inlet/Outlet Valves, Connecting Rod, Crankshaft, Flywheel, Pump
 ## Chain Sprocket
-
 {{< figure src="chain.png" title="An Chain Sprocket" >}}
-
-
+- Software: SolidWorks 2017
+- Parts Count: 4
+- Subassemblies: 1
+- Key Components:
+  - Chain, Sprocket, Drive Shaft
 
 
 ```go

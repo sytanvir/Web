@@ -14,12 +14,13 @@ image:
 
 # Python Projects Showcase
 
-Welcome to my **Python Projects Showcase**! This portfolio features a selection of my projects developed using Python, illustrating my capabilities in software design, algorithm development, and simulation.
+Welcome to my **Python Projects Showcase**! This portfolio features a selection of my projects developed using Python at Stanford University, illustrating my capabilities in software design, algorithm development, and simulation.
 
 ---
 
 ## Project 1: Pendulum-Projectile Simulation on Solar Planets
 - **Description:** A sophisticated simulation that combines the dynamics of pendulum motion with projectile motion in a solar system context.
+- **Course:** Stanford University CS106A (2023)
 - **Technologies Used:** Python 3, Pygame
 - **Key Features:**
   - Realistic simulation of pendulum and projectile dynamics.
@@ -32,6 +33,7 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
 
 ## Project 2: Graph Simulator
 - **Description:** A versatile graph simulation tool that allows users to visualize and manipulate graph structures interactively.
+- **Course:** Stanford University CS106A (2023)
 - **Technologies Used:** Python 3, Matplotlib
 - **Key Features:**
   - Interactive UI for adding and removing nodes and edges.
@@ -44,6 +46,7 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
 
 ## Project 3: Games
 - **Description:** A collection of engaging mini-games developed using Python, showcasing programming logic and design principles.
+- **Course:** Stanford University CS106A (2023)
 - **Technologies Used:** Python 3, Pygame
 - **Key Features:**
   - Includes various game genres: puzzles, arcade, and strategy.
@@ -56,7 +59,7 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
 
 ## Project 4: Karel Robot (7 Mini Projects)
 - **Description:** A series of seven mini-projects utilizing the Karel Robot programming environment to introduce fundamental programming concepts.
-- **Course:** Stanford CS106A (2023)
+- **Course:** Stanford University CS106A (2023)
 - **Key Features:**
   - Hands-on programming exercises including maze navigation and object manipulation.
   - Emphasis on logical thinking and problem-solving skills.
@@ -76,6 +79,7 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
 
 ## Project 5: Finite Difference Method (FDM) for Heat Transfer
 - **Description:** Developed a simulation tool implementing the Finite Difference Method to solve heat transfer problems.
+- **Course:** Stanford University CS106A (2023)
 - **Technologies Used:** Python 3, NumPy
 - **Key Features:**
   - Accurate numerical solutions for heat distribution over time.

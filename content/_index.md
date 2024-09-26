@@ -62,6 +62,18 @@ sections:
     design:
       view: article-grid
       columns: 2
+      
+  - block: collection
+    id: pro
+    content:
+      title: Preprints (arXiv)
+      filters:
+        folders:
+          - pro
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
 
   - block: collection
     content:

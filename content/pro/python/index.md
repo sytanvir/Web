@@ -23,7 +23,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< figure src="content/pro/python/HX.png" title="An elephant at sunset" >}}
+{{< figure src="HX.png" title="An elephant at sunset" >}}
 
 
 

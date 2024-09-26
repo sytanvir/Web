@@ -35,11 +35,10 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        I am a Mechanical Engineer specializing in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics, working to optimize renewable energy systems.
-        
-        I am seeking MSc or PhD opportunities to further my research in these areas.
+        I am a Mechanical Engineer specializing in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics.    
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -78,6 +77,17 @@ sections:
 
 
   - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+          - preprints
+        exclude_featured: false
+    design:
+      view: citation
+      - block: collection
     content:
       title: Recent Publications
       text: ""

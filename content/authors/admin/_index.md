@@ -129,7 +129,7 @@ skills:
       - name: ANSYS Fluent
         description: ''
         percent: 100
-        icon: assets/media/icons/Ansys.svg
+        icon: assets/media/icons/ansys.svg
       - name: ICEM CFD
         description: ''
         percent: 40

@@ -20,11 +20,6 @@ image:
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
-## Gear Box Design
-
-{{< figure src="gearbox.png" title="An elephant at sunset" >}}
-
-
 
 ## Shock Absorber
 
@@ -34,26 +29,13 @@ On this page, you'll find some examples of the types of technical content that c
 
 {{< figure src="HX.png" title="An elephant at sunset" >}}
 
-
-## Steam Engine
-
-{{< figure src="steam engine.png" title="An elephant at sunset" >}}
-
-## Landing Gear
-
-{{< figure src="landing.png" title="An elephant at sunset" >}}
-
 ## Ic Engine
 
 {{< figure src="ic.png" title="Ic Engine" >}}
 
-## Heat Exchanger
+## Landing Gear
 
-{{< figure src="fin hx.png" title="Heat Exchanger" >}}
-
-## Chain Sprocket
-
-{{< figure src="chain.png" title="An Chain Sprocket" >}}
+{{< figure src="landing.png" title="An elephant at sunset" >}}
 
 ##  Aircraft
 {{< figure src="aicraft.png" title="An aicraft" >}}
@@ -61,6 +43,26 @@ On this page, you'll find some examples of the types of technical content that c
 ## Geneva Mechanism
 
 {{< figure src="geneva.png" title="geneva" >}}
+
+## Heat Exchanger
+
+{{< figure src="fin hx.png" title="Heat Exchanger" >}}
+
+## Gear Box Design
+
+{{< figure src="gearbox.png" title="An elephant at sunset" >}}
+
+
+## Steam Engine
+
+{{< figure src="steam engine.png" title="An elephant at sunset" >}}
+
+
+## Chain Sprocket
+
+{{< figure src="chain.png" title="An Chain Sprocket" >}}
+
+
 
 
 ```go

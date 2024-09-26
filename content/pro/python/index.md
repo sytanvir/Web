@@ -105,4 +105,14 @@ $$
   - Stone Mason Karel
 - **Visuals:**
   ![Karel Robot Projects](karel_robot_projects.png)
+## Baby Snake
+- **Project Repository:** [View Project](your_project_link_here)
+- **Description:** A collection of engaging mini-games developed using Python, showcasing programming logic and design principles.
+- **Course:** Stanford University CS106A (2023)
+- **Technologies Used:** Python 3, Pygame
+- **Key Features:**
+  - Includes various game genres: puzzles, arcade, and strategy.
+  - Focus on user experience and gameplay mechanics.
+- **Visuals:**
+  ![Baby Snake](games_collection.png)
 

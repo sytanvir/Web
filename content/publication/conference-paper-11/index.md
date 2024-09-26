@@ -28,7 +28,7 @@ tags:
   - wind power
   - Renewable energy
 
-featured: false
+featured: true
 
 links:
 #- name: Custom Link

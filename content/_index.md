@@ -64,7 +64,7 @@ sections:
       columns: 2
       
   - block: collection
-    id: pro
+    id: projects
     content:
       title: Preprints (arXiv)
       filters:

@@ -18,7 +18,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Video
 
-{{< video src="/assets/media/a.mp4" controls="yes" >}}
+{{</* video src="a.mp4" controls="yes" */>}}
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 

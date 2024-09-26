@@ -84,22 +84,10 @@ sections:
         folders:
           - publication
           - preprints
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
-      
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-          - preprints
-        exclude_featured: false
-    design:
-      view: citation
-      
+    
   #- block: collection
   #  id: talks
   #  content:

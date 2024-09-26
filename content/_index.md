@@ -84,7 +84,7 @@ sections:
         folders:
           - publication
           - preprints
-        exclude_featured: false
+        exclude_featured: true
     design:
       view: citation
     

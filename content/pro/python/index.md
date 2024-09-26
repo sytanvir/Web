@@ -18,56 +18,70 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
 
 ---
 
-## Project 1: Solar System Dynamics Simulator
-- **Description:** Developed a sophisticated software application simulating the dynamics of the solar system, applying principles of celestial mechanics.
-- **Technologies Used:** Python 3
+## Project 1: Pendulum-Projectile Simulation on Solar Planets
+- **Description:** A sophisticated simulation that combines the dynamics of pendulum motion with projectile motion in a solar system context.
+- **Technologies Used:** Python 3, Pygame
 - **Key Features:**
-  - Real-time simulation of planetary orbits
-  - Visualization of gravitational interactions
-  - Intuitive user interface for parameter input
+  - Realistic simulation of pendulum and projectile dynamics.
+  - Visualization of gravitational interactions with different planetary bodies.
 - **Visuals:**
-  ![Solar System Dynamics Simulator Screenshot](solar_system_simulator.png)
-- **Demo Video:** [Watch Demo](https://www.youtube.com/watch?v=video_id_here)
+  ![Pendulum-Projectile Simulation](pendulum_projectile_simulation.png)
 - **Project Repository:** [View Project](your_project_link_here)
 
 ---
 
-## Project 2: Karel Robot
-- **Description:** A series of 7 educational projects utilizing the Karel Robot programming environment to teach fundamental programming concepts.
-- **Course:** Stanford CS106A (2023)
+## Project 2: Graph Simulator
+- **Description:** A versatile graph simulation tool that allows users to visualize and manipulate graph structures interactively.
+- **Technologies Used:** Python 3, Matplotlib
 - **Key Features:**
-  - Various challenges including maze navigation and object manipulation
-  - Focus on algorithmic problem-solving and programming logic
+  - Interactive UI for adding and removing nodes and edges.
+  - Visualization of graph algorithms in real-time.
 - **Visuals:**
-  ![Karel Robot Project Screenshot](karel_robot_project.png)
-- **Overview Video:** [Watch Overview](https://www.youtube.com/watch?v=video_id_here)
+  ![Graph Simulator](graph_simulator.png)
+- **Project Repository:** [View Project](your_project_link_here)
+
+---
+
+## Project 3: Games
+- **Description:** A collection of engaging mini-games developed using Python, showcasing programming logic and design principles.
+- **Technologies Used:** Python 3, Pygame
+- **Key Features:**
+  - Includes various game genres: puzzles, arcade, and strategy.
+  - Focus on user experience and gameplay mechanics.
+- **Visuals:**
+  ![Games Collection](games_collection.png)
 - **Project Repository:** [View Projects](your_project_link_here)
 
 ---
 
-## Project 3: Finite Difference Method (FDM) for Heat Transfer and Solid Mechanics
-- **Description:** Created a simulation tool using the Finite Difference Method to address heat transfer and solid mechanics problems.
-- **Technologies Used:** Python 3
+## Project 4: Karel Robot (7 Mini Projects)
+- **Description:** A series of seven mini-projects utilizing the Karel Robot programming environment to introduce fundamental programming concepts.
+- **Course:** Stanford CS106A (2023)
 - **Key Features:**
-  - Accurate numerical solutions for complex physical scenarios
-  - Graphical representation of simulation results
-  - Modular design for scalability and adaptability
+  - Hands-on programming exercises including maze navigation and object manipulation.
+  - Emphasis on logical thinking and problem-solving skills.
+- **Projects:**
+  - Beyond Fill Karel
+  - Checkerboard Karel
+  - Fill Karel
+  - Jigsaw Karel
+  - Piles
+  - Spread Beepers
+  - Stone Mason Karel
 - **Visuals:**
-  ![FDM Simulation](fdm_simulation.png)
-- **Tutorial Video:** [Watch Tutorial](https://www.youtube.com/watch?v=video_id_here)
-- **Project Repository:** [View Project](your_project_link_here)
+  ![Karel Robot Projects](karel_robot_projects.png)
+- **Project Repository:** [View Projects](your_project_link_here)
 
 ---
 
-## Project 4: Gravity Light
-- **Description:** An academic project developed under the MEE-368 course, exploring gravitational principles and their applications.
-- **Course:** MEE-368
+## Project 5: Finite Difference Method (FDM) for Heat Transfer
+- **Description:** Developed a simulation tool implementing the Finite Difference Method to solve heat transfer problems.
+- **Technologies Used:** Python 3, NumPy
 - **Key Features:**
-  - Hands-on experiments demonstrating gravity concepts
-  - Innovative engineering solutions and designs
+  - Accurate numerical solutions for heat distribution over time.
+  - Graphical representation of simulation results for analysis.
 - **Visuals:**
-  ![Gravity Light Project](gravity_light_project.png)
-- **Explanation Video:** [Watch Explanation](https://www.youtube.com/watch?v=video_id_here)
+  ![FDM Heat Transfer](fdm_heat_transfer.png)
 - **Project Repository:** [View Project](your_project_link_here)
 
 ---
@@ -75,4 +89,3 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
 ## Conclusion
 
 Thank you for exploring my Python Projects Showcase! I am dedicated to continuous learning and improvement in software development. If you have any questions or feedback, please feel free to reach out.
-

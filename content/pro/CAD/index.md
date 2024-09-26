@@ -60,9 +60,12 @@ Gearbox Design (Gravity Light Project)
 Designed a custom gearbox to adjust torque and speed for a low-cost lighting solution.
 
 Software: SolidWorks 2017
+
 Manufacturing Tools: Lathe, Milling, Grinding
+
 Key Specifications:
 5 gears, 5 pinions, 1 motor
+
 Optimized for efficient power transmission and minimal friction losses
 
 

@@ -31,16 +31,69 @@ Welcome to my **Python Projects Showcase**! This portfolio features a selection 
 
 ---
 
-## 2: Finite Difference Method (FDM) for Heat Transfer
-- **Description:** Developed a simulation tool implementing the Finite Difference Method to solve heat transfer problems.
-- **Course:** Stanford University CS106A (2023)
-- **Technologies Used:** Python 3, NumPy
-- **Key Features:**
-  - Accurate numerical solutions for heat distribution over time.
-  - Graphical representation of simulation results for analysis.
-- **Visuals:**
-  ![FDM Heat Transfer](fdm_heat_transfer.png)
-- **Project Repository:** [View Project](your_project_link_here)
+---
+title: Finite Difference Method (FDM) for Heat Transfer
+summary: Numerical solution of heat transfer problems using the Finite Difference Method.
+date: 2023-10-24
+type: docs
+math: true
+tags:
+  - Python
+  - Projects
+  - Programming
+  - Heat Transfer
+image:
+  caption: 'Finite Difference Method for Heat Transfer'
+---
+
+## Mathematical Background
+
+The Finite Difference Method (FDM) is a numerical technique used to approximate solutions to differential equations, such as the **heat equation**:
+
+{{< math >}}
+
+$$
+\frac{\partial u}{\partial t} = \alpha \frac{\partial^2 u}{\partial x^2}
+$$
+
+{{< /math >}}
+
+Where:
+- \( u(x,t) \) is the temperature as a function of position \(x\) and time \(t\),
+- \( \alpha \) is the thermal diffusivity of the material.
+
+### Discretization
+
+Using finite differences, we can approximate the partial derivatives with:
+
+{{< math >}}
+
+$$
+\frac{\partial u}{\partial t} \approx \frac{u_i^{n+1} - u_i^n}{\Delta t}
+$$
+
+{{< /math >}}
+
+and
+
+{{< math >}}
+
+$$
+\frac{\partial^2 u}{\partial x^2} \approx \frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{\Delta x^2}
+$$
+
+{{< /math >}}
+
+Thus, the heat equation becomes:
+
+{{< math >}}
+
+$$
+u_i^{n+1} = u_i^n + \alpha \Delta t \left( \frac{u_{i+1}^n - 2u_i^n + u_{i-1}^n}{\Delta x^2} \right)
+$$
+
+{{< /math >}}
+
 
 ---
 

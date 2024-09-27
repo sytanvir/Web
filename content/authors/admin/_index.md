@@ -139,7 +139,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: ☕️
+        icon: Ansys
       - name: C 
         description: ''
         percent: 40

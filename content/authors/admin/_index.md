@@ -125,43 +125,43 @@ skills:
       - name: FLUENT
         description: ''
         percent: 100
-        icon: wind 
+        icon: cpu-chip 
       - name: ICEM CFD
         description: ''
         percent: 40
-        icon: cog
+        icon: cpu-chip
       - name: SolarPILOT
         description: ''
         percent: 40
-        icon: cog
+        icon: cpu-chip
   - name: Programming 
     items:
       - name: Python
         description: ''
         percent: 100
-        icon: cog
+        icon: code-bracket
       - name: C 
         description: ''
         percent: 40
-        icon: cog
+        icon: code-bracket
       - name: MATLAB
         description: ''
         percent: 40
-        icon: cog
+        icon: code-bracket
   - name: CAD 
     items:
       - name: SOLIDWORKS
         description: ''
         percent: 100
-        icon: sl
+        icon: cube
       - name: Fusion 360
         description: ''
         percent: 40
-        icon: cog
+        icon: cube
       - name: SpaceClaim
         description: ''
         percent: 40
-        icon: cog
+        icon: cube
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -169,15 +169,15 @@ skills:
       - name: Music
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: speaker-wave
       - name: Movies
         description: ''
         percent: 100
-        icon: cat
+        icon: tv
       - name: Travel
         description: ''
         percent: 80
-        icon: camera
+        icon: person-simple-walk
 
 languages:
   - name: English

@@ -125,11 +125,11 @@ skills:
       - name: FLUENT
         description: ''
         percent: 100
-        icon: ☕️
+        icon: 'engine'
       - name: ICEM CFD
         description: ''
         percent: 40
-        icon: ☕️
+        icon: 
       - name: SolarPILOT
         description: ''
         percent: 40

@@ -125,7 +125,7 @@ skills:
       - name: FLUENT
         description: ''
         percent: 100
-        icon: 'fa-solid fa-wind'
+        icon: fa-solid fa-wind
       - name: ICEM CFD
         description: ''
         percent: 40

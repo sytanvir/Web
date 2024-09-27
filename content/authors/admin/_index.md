@@ -61,7 +61,7 @@ education:
       - CGPA: 3.51/4.0
     button:
       text: 'Read Thesis'
-      url: https://drive.google.com/drive/folders/1Bm2YmdYYpmDmoFAxJJdHMR1RxhoExx01?usp=sharing
+      url: 'https://drive.google.com/drive/folders/1Bm2YmdYYpmDmoFAxJJdHMR1RxhoExx01?usp=sharing'
       GPA: 3.51/4.0
       Courses included:
       - Presented research findings at international conferences (ICME)
@@ -81,6 +81,7 @@ work:
     company_logo: 'content/authors/admin/avatar.jpg'
     date_start: 2023-01-01
     date_end: 2024-01-15
+    company_name: 'Supervisor: Tahmidul Haque Ruvo, Department of MEE, SUST'
     summary: |2-
       Responsibilities include:
       - Structured entire research scheme under supervision to conduct thesis within timeframe

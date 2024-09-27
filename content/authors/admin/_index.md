@@ -129,7 +129,7 @@ skills:
       - name: ICEM CFD
         description: ''
         percent: 40
-        icon: 
+        icon: battery-full-outline
       - name: SolarPILOT
         description: ''
         percent: 40

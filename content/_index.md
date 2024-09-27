@@ -75,6 +75,17 @@ sections:
       view: article-grid
       columns: 3 # Display 3 projects side by side
 
+  - block: collection
+    id: projects
+    content:
+      title: Featured Projects
+      filters:
+        folders:
+          - certificate # Make sure this folder contains your project files
+      limit: 3 # Ensure that only 3 projects are displayed
+    design:
+      view: article-grid
+      columns: 3 # Display 3 projects side by side
 
   - block: collection
     content:

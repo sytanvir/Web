@@ -75,6 +75,7 @@ education:
        
       
 work:
+  Research Experience
   - position: Undergraduate Thesis
     company_name: Mechanical Engineering Department, SUST
     company_url: ''

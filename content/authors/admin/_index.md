@@ -125,7 +125,7 @@ skills:
       - name: FLUENT
         description: ''
         percent: 100
-        icon: cog
+        icon: ansys
       - name: ICEM CFD
         description: ''
         percent: 40
@@ -147,7 +147,7 @@ skills:
       - name: MATLAB
         description: ''
         percent: 40
-        icon: sun
+        icon: cog
   - name: CAD 
     items:
       - name: SOLIDWORKS

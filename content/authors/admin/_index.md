@@ -75,7 +75,7 @@ education:
        
       
 work:
-  caption: Research Experience
+  title: Research Experience
     experiences:
       - position: Undergraduate Thesis
         company_name: Mechanical Engineering Department, SUST

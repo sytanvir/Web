@@ -122,7 +122,7 @@ work:
 skills:
   - name: Simulation 
     items:
-      - name: ANSYS Fluent
+      - name: FLUENT
         description: ''
         percent: 100
         icon: ☕️
@@ -136,7 +136,7 @@ skills:
         icon: sun
   - name: CAD 
     items:
-      - name: SolidWorks
+      - name: SOLIDWORKS
         description: ''
         percent: 100
         icon: ☕️
@@ -144,11 +144,11 @@ skills:
         description: ''
         percent: 40
         icon: sun
-      - name: Ansys SpaceClaim
+      - name: SpaceClaim
         description: ''
         percent: 40
         icon: sun
-        
+
   - name: Programming 
     items:
       - name: Python
@@ -176,7 +176,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Travel
         description: ''
         percent: 80
         icon: camera

@@ -153,7 +153,7 @@ skills:
       - name: SOLIDWORKS
         description: ''
         percent: 100
-        icon: cog
+        icon: sl
       - name: Fusion 360
         description: ''
         percent: 40

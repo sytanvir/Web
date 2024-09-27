@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} sytanv.me This work is licensed under {license}'
+    notice: '© 2024 Sytanvir.me. All rights reserved under {license}'
     license:
       enable: true
       allow_derivatives: false

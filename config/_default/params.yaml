@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Sayed Tanvir Ahmed. This work is licensed under {license}'
+    notice: '© {2024} sytanvir.me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

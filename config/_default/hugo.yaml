@@ -53,3 +53,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+params:
+  favicon: "favicon/favicon.ico"  # Path to your favicon file in the static folder

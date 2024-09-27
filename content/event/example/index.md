@@ -15,6 +15,15 @@ address:
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
+awards:
+  - title: 'Stanford University’s Code in Place'
+    url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb
+    date: '2023-11-25'
+    awarder: Stanford University
+    icon: Ansys.svg
+    summary: |
+      I build several projects with kaerl robot and python
+      
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2030-06-01T13:00:00Z'
@@ -61,6 +70,9 @@ slides: ""
 projects:
   - example
 ---
+
+
+
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

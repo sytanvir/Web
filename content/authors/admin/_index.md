@@ -133,7 +133,7 @@ skills:
       - name: SolarPILOT
         description: ''
         percent: 40
-        icon: sun
+        icon: bx-adjust
   - name: Programming 
     items:
       - name: Python
@@ -143,7 +143,7 @@ skills:
       - name: C 
         description: ''
         percent: 40
-        icon: ☕️
+        icon: bx-adjust
       - name: MATLAB
         description: ''
         percent: 40

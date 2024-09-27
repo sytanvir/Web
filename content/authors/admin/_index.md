@@ -125,25 +125,25 @@ skills:
       - name: FLUENT
         description: ''
         percent: 100
-        icon: Ansys
+        icon: cog
       - name: ICEM CFD
         description: ''
         percent: 40
-        icon: battery-full-outline
+        icon: cog
       - name: SolarPILOT
         description: ''
         percent: 40
-        icon: bx-adjust
+        icon: cog
   - name: Programming 
     items:
       - name: Python
         description: ''
         percent: 100
-        icon: Ansys
+        icon: cog
       - name: C 
         description: ''
         percent: 40
-        icon: bx-adjust
+        icon: cog
       - name: MATLAB
         description: ''
         percent: 40
@@ -153,15 +153,15 @@ skills:
       - name: SOLIDWORKS
         description: ''
         percent: 100
-        icon: ☕️
+        icon: cog
       - name: Fusion 360
         description: ''
         percent: 40
-        icon: sun
+        icon: cog
       - name: SpaceClaim
         description: ''
         percent: 40
-        icon: sun
+        icon: cog
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

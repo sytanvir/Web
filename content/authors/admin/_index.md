@@ -61,7 +61,7 @@ education:
       - GPA: 3.51/4.0
     button:
       text: 'Read Thesis'
-      url: static/uploads/Thesis.pdf
+      url: https://drive.google.com/drive/folders/1Bm2YmdYYpmDmoFAxJJdHMR1RxhoExx01?usp=sharing
       GPA: 3.51/4.0
       Courses included:
       - Presented research findings at international conferences (ICME)
@@ -72,8 +72,7 @@ education:
     date_end: 2018-04-11
     GPA: 3.42/4.0
     summary: |
-
-         
+       
       
 work:
   - position: Undergraduate Thesis

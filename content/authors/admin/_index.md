@@ -33,15 +33,15 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sytanvir.mech@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sytanvir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIQkfVICMRVGmDSkFNlrE0w%3D%3D
+  - icon: academicons/google-scholar
+  - icon: brands/skype
+    url: https://join.skype.com/invite/xOUW5Jbw8nVd
   - icon: brands/whatsapp
     url: https://wa.me/8801855829262 
   - icon: brands/github
     url: https://github.com/sytanvir
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/sytanvir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIQkfVICMRVGmDSkFNlrE0w%3D%3D
-  - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=PyOAMS8AAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0009-0002-4907-031X

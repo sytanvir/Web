@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mechanical Engineer and Researcher
+role: Mechanical Engineer | Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -55,10 +55,10 @@ education:
     institution: Shahjalal University of Science And Technology
     date_start: 2019-01-10
     date_end: 2024-01-15
-    GPA: 3.51/4.0
+    GPA: 3.51/4.00
     summary: |
       - Thesis Title: Investigation on the potential of Hill Track Sites as solar fields for Concentrated Solar Power plants incorporating Optical Efficiency as the primary parameter.
-      - GPA: 3.51/4.0
+      - CGPA: 3.51/4.0
     button:
       text: 'Read Thesis'
       url: https://drive.google.com/drive/folders/1Bm2YmdYYpmDmoFAxJJdHMR1RxhoExx01?usp=sharing
@@ -77,7 +77,7 @@ education:
 work:
   - position: Undergraduate Thesis
     company_name: Mechanical Engineering Department, SUST
-    company_url: 'https://www.sust.edu/'
+    company_url: ''
     company_logo: 'content/authors/admin/avatar.jpg'
     date_start: 2023-01-01
     date_end: 2024-01-15
@@ -89,7 +89,7 @@ work:
 
   - position: Research Assistant (Non-funded)
     company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
-    company_url: 'https://www.sust.edu/'
+    company_url: ''
     company_logo: ''
     date_start: 2023-09-01
     date_end: ''
@@ -102,7 +102,7 @@ work:
 
   - position: Research Intern
     company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
-    company_url: 'https://www.sust.edu/'
+    company_url: ''
     company_logo: ''
     date_start: 2022-08-01
     date_end: 2023-08-31

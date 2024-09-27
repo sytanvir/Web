@@ -81,9 +81,8 @@ work:
     company_logo: 'content/authors/admin/avatar.jpg'
     date_start: 2023-01-01
     date_end: 2024-01-15
-    company_name: 'Supervisor: Tahmidul Haque Ruvo, Department of MEE, SUST'
     summary: |2-
-      Responsibilities include:
+      Supervisor: Tahmidul Haque Ruvo, Department of MEE, SUST
       - Structured entire research scheme under supervision to conduct thesis within timeframe
       - Modelled field layout using geographical data, Filtered and processed data with Python, used SolarPILOT to carry out the simulation
       - Processed and visualized data using OriginLab and Tecplot, wrote a thesis report, and presented a conference paper
@@ -95,7 +94,7 @@ work:
     date_start: 2023-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
+      Supervisor: Mostafa Rafid, Department of MEE, SUST
       - Designed the entire research methodology under supervision
       - Modeled required solid and fluid geometries, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
       - Implemented ANSYS Fluent for conducting numerical simulations
@@ -108,7 +107,7 @@ work:
     date_start: 2022-08-01
     date_end: 2023-08-31
     summary: |
-      Responsibilities include:
+      Supervisor: A K M Ashikuzzaman, Department of MEE, SUST(Doctoral candidate, University of Minnesota, USA)
       - Prepared Airfoil geometries, designed fluid domain, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
       - Processed and visualized data using OriginLab and Tecplot, wrote multiple research paper, one poster paper accepted and two paper being reviewed
 
@@ -188,11 +187,15 @@ languages:
 awards:
   - title: 'Stanford University’s Code in Place'
     url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb
+    certificate_url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb
     date: '2023-11-25'
     awarder: Stanford University
-    icon: Ansys.svg
+    icon: stanford
     summary: |
-      I build several projects with kaerl robot and python
+      - Language: Python 3
+      - Key Topics: Control flow, loops, conditionals, console programming, graphics, lists, and dictionaries.
+      - Units: Karel the Robot, Console Programming, Graphics, Lists, and Dictionaries.
+      - Achievements: Diagnostic Badge and Section Badge
 
   - title: 'Supervised Machine Learning Regression and Classification'
     url: https://codeinplace.stanford.edu/cip3/certificate/gqolsb

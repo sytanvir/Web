@@ -125,7 +125,7 @@ skills:
       - name: FLUENT
         description: ''
         percent: 100
-        icon: ansys
+        icon: ansys 
       - name: ICEM CFD
         description: ''
         percent: 40

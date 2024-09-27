@@ -62,9 +62,8 @@ education:
       Thesis Title: Investigation on the potential of Hill Track Sites as solar fields for Concentrated Solar Power plants incorporating Optical Efficiency as the primary parameter.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: uploads/Thesis.pdf
       GPA: 3.51/4.0
-      
       Courses included:
       - Presented research findings at international conferences (ICME)
       

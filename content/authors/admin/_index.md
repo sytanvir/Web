@@ -120,7 +120,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Simulation Software
+  - name: Simulation 
     items:
       - name: ANSYS Fluent
         description: ''
@@ -134,15 +134,11 @@ skills:
         description: ''
         percent: 40
         icon: sun
-  - name: CAD Software
+  - name: CAD 
     items:
       - name: SolidWorks
         description: ''
         percent: 100
-        icon: ☕️
-      - name: AutoCAD
-        description: ''
-        percent: 40
         icon: ☕️
       - name: Fusion 360
         description: ''
@@ -152,8 +148,8 @@ skills:
         description: ''
         percent: 40
         icon: sun
-
-  - name: Programming Languages
+        
+  - name: Programming 
     items:
       - name: Python
         description: ''
@@ -167,10 +163,7 @@ skills:
         description: ''
         percent: 40
         icon: sun
-      - name: Go
-        description: ''
-        percent: 40
-        icon: sun
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

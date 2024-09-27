@@ -134,21 +134,6 @@ skills:
         description: ''
         percent: 40
         icon: sun
-  - name: CAD 
-    items:
-      - name: SOLIDWORKS
-        description: ''
-        percent: 100
-        icon: ☕️
-      - name: Fusion 360
-        description: ''
-        percent: 40
-        icon: sun
-      - name: SpaceClaim
-        description: ''
-        percent: 40
-        icon: sun
-
   - name: Programming 
     items:
       - name: Python
@@ -163,7 +148,20 @@ skills:
         description: ''
         percent: 40
         icon: sun
-      
+  - name: CAD 
+    items:
+      - name: SOLIDWORKS
+        description: ''
+        percent: 100
+        icon: ☕️
+      - name: Fusion 360
+        description: ''
+        percent: 40
+        icon: sun
+      - name: SpaceClaim
+        description: ''
+        percent: 40
+        icon: sun
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'

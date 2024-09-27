@@ -74,14 +74,12 @@ education:
     summary: |
 
          
-
-  
       
 work:
   - position: Undergraduate Thesis
     company_name: Mechanical Engineering Department, SUST
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.sust.edu/'
+    company_logo: 'content/authors/admin/avatar.jpg'
     date_start: 2023-01-01
     date_end: 2024-01-15
     summary: |2-
@@ -92,7 +90,7 @@ work:
 
   - position: Research Assistant (Non-funded)
     company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
-    company_url: ''
+    company_url: 'https://www.sust.edu/'
     company_logo: ''
     date_start: 2023-09-01
     date_end: ''
@@ -105,7 +103,7 @@ work:
 
   - position: Research Intern
     company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
-    company_url: ''
+    company_url: 'https://www.sust.edu/'
     company_logo: ''
     date_start: 2022-08-01
     date_end: 2023-08-31

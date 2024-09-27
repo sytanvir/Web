@@ -13,9 +13,6 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Achievement
-    url: achievement/
-    weight: 20
   - name: Projects
     url: pro/
     weight: 30

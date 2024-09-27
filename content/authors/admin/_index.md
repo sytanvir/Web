@@ -120,12 +120,8 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Simulation Software
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
       - name: ANSYS Fluent
         description: ''
         percent: 100
@@ -135,6 +131,43 @@ skills:
         percent: 40
         icon: ☕️
       - name: SolarPILOT
+        description: ''
+        percent: 40
+        icon: sun
+  - name: CAD Software
+    items:
+      - name: SolidWorks
+        description: ''
+        percent: 100
+        icon: ☕️
+      - name: AutoCAD
+        description: ''
+        percent: 40
+        icon: ☕️
+      - name: Fusion 360
+        description: ''
+        percent: 40
+        icon: sun
+      - name: Ansys SpaceClaim
+        description: ''
+        percent: 40
+        icon: sun
+
+  - name: Programming Languages
+    items:
+      - name: Python
+        description: ''
+        percent: 100
+        icon: ☕️
+      - name: C 
+        description: ''
+        percent: 40
+        icon: ☕️
+      - name: MATLAB
+        description: ''
+        percent: 40
+        icon: sun
+      - name: Go
         description: ''
         percent: 40
         icon: sun

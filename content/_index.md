@@ -87,16 +87,6 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: talks
-    content:
-      title: Certifications
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 2
       
   #- block: collection
   #  id: news

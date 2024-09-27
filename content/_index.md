@@ -76,18 +76,6 @@ sections:
       columns: 3 # Display 3 projects side by side
 
   - block: collection
-    id: projects
-    content:
-      title: Featured Projects
-      filters:
-        folders:
-          - certificate # Make sure this folder contains your project files
-      limit: 3 # Ensure that only 3 projects are displayed
-    design:
-      view: article-grid
-      columns: 3 # Display 3 projects side by side
-
-  - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -99,16 +87,16 @@ sections:
     design:
       view: citation
       
-  #- block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #   view: article-grid
-  #    columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+     view: article-grid
+      columns: 1
   #- block: collection
   #  id: news
   #  content:

@@ -86,7 +86,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      
+       
   - block: collection
     id: talks
     content:

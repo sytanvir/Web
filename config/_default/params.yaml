@@ -59,4 +59,4 @@ features:
   privacy_pack:
     enable: false
 params:
-  favicon: "favicon.png"  # Or the path to your favicon file if it's different
+  favicon: "static/uploads/favicon.png"  # Or the path to your favicon file if it's different

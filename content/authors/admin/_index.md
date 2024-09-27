@@ -36,8 +36,6 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sytanvir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIQkfVICMRVGmDSkFNlrE0w%3D%3D
   - icon: academicons/google-scholar
-  - icon: brands/skype
-    url: https://join.skype.com/invite/xOUW5Jbw8nVd
   - icon: brands/whatsapp
     url: https://wa.me/8801855829262 
   - icon: brands/github
@@ -49,7 +47,7 @@ profiles:
 interests:
   - Computational Fluid Dynamics
   - Sustainable Energy (CSP, Wind)
-  - Thermo-fluid
+  - Thermo-fluid 
   - Bio-fluid
 
 education:

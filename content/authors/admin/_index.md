@@ -120,7 +120,7 @@ skills:
       - name: FLUENT
         description: ''
         percent: 100
-        icon: ⌛️
+        icon: cpu-chip
       - name: ICEM CFD
         description: ''
         percent: 40

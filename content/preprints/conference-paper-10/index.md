@@ -19,7 +19,20 @@ publication_types: ["article"]
 publication: "arXiv"
 publication_short: "arXiv"
 
-abstract: When fossil fuel supplies can no longer be replenished and hence fossil fuel power generation becomes outdated, wind energy will become a vital solution to the impending energy crisis. A horizontal-axis wind turbine is a widely used technology that is highly dependent on the design of high-performing airfoils. In this paper, we have studied the performance of the NACA6309 airfoil and designed it by modifying the airfoil with a trailing edge plain flap. Computational Fluid Dynamic (CFD) simulations are utilized for this purpose. We have designed sixteen configurations of NACA 6309 airfoil by using plain flaps at the trailing edge and studied their aerodynamic performance. After comparing the lift, drag, and lift-to-drag ratios, it is evident that the \(1^\circ\) up-flap configuration generates the best output. In addition, the \(10^\circ\) down flap provides the worst performance among all configurations. Finally, pressure contours and velocity contours around the airfoils are presented, which describe the overall characteristics.
+abstract:  In this contemporary era, the significance of wind energy is increasing enormously to address the energy crisis.
+ Theaerodynamic efficiency of a wind turbine is heavily influenced by the blade’s airfoil profile and selecting an appropriate
+ profile is essential. A numerical (CFD) based investigation is conducted on the NACA 4412 airfoil profile by modifying
+ the leading-edge flap angle in order to assess the impact on the aerodynamic performance of wind turbine blades. The
+ governing equations, incorporating the Spalart-Allmaras turbulence model, were solved using the commercial software
+ ANSYS FLUENT CFD algorithm, and structured grid was constructed using ANSYS ICEM CFD. In this investigation,
+ the leading-edge flap angle (at 20% chord) of NACA 4412 was varied with a 2° interval between 8° up flap to 8° down
+ flap, for a total of nine airfoil configurations. The Reynolds number (Re) used in this investigation was 0.3 million whereas
+ the angle of attack ranged from 0° to 20°, with 1° increments. The research examined and reported the impact of varying
+ leading-edge flap angles on the lift coefficient (CL), drag coefficient (CD), and lift-to-drag ratio (CL/CD) at different angles
+ of attack. In order to comprehend the aerodynamic properties and flow physics, the influence of flap angles on the velocity
+ and pressure distributions surrounding the airfoil was examined and visually illustrated. The 8° down flap configuration
+ exhibited the highest aerodynamics performance, achieved by a maximum lift-to-drag ratio (CL/CD) enhancement of 10.7%
+ compared to the NACA 4412 base profile.
 
 # Summary. An optional shortened abstract.
 summary: This study uses CFD simulations to analyze 16 configurations of the NACA6309 airfoil with trailing-edge flaps, finding that a 1° up-flap offers the best aerodynamic performance while the 10° down-flap performs the worst.

@@ -15,7 +15,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2024-05-29T00:00:00Z'
-doi: 'https://dx.doi.org/10.2139/ssrn.4862794'
+#doi: 'https://dx.doi.org/10.2139/ssrn.4862794'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-29T00:00:00Z'
@@ -51,7 +51,7 @@ featured: true
 #   url: http://example.org
 
 ### Links
-url_pdf: 'content/publication/conference-paper-2/conference-paper.pdf'
+url_pdf: '/workspaces/Web/content/publication/conference-paper-2/conference-paper.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

@@ -1,5 +1,5 @@
 ---
-title: CADAAAA
+title: CADA Projects
 summary: Computer Aided Design
 date: 2023-10-24
 type: docs

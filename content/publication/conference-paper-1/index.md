@@ -15,7 +15,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024'
+date: '2017-01-01T00:00:00Z'
 doi: 'https://dx.doi.org/10.2139/ssrn.4862794'
 
 # Schedule page publish date (NOT publication's date).

@@ -2,271 +2,239 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/My-Web/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/publication_types/article/</loc>
+    <loc>https://github.com/sytanvir/Web.git/publication_types/article/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/cfd/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/cfd/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/preprints/conference-paper-11/</loc>
+    <loc>https://github.com/sytanvir/Web.git/preprints/conference-paper-11/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/preprints/conference-paper-10/</loc>
+    <loc>https://github.com/sytanvir/Web.git/preprints/conference-paper-10/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/publication_types/</loc>
+    <loc>https://github.com/sytanvir/Web.git/preprints/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/preprints/</loc>
+    <loc>https://github.com/sytanvir/Web.git/publication_types/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/renewable-energy/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/renewable-energy/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/vawt/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/vawt/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/wind-power/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/wind-power/</loc>
     <lastmod>2024-09-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/publication/conference-paper-3/</loc>
+    <loc>https://github.com/sytanvir/Web.git/publication/conference-paper-3/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/publication_types/conference/</loc>
+    <loc>https://github.com/sytanvir/Web.git/publication_types/conference/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/heat-exchanger/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/heat-exchanger/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/publication/conference-paper-4/</loc>
+    <loc>https://github.com/sytanvir/Web.git/publication/conference-paper-4/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/publication/</loc>
+    <loc>https://github.com/sytanvir/Web.git/publication/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/solar-air-heater/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/solar-air-heater/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/thermo-fluid/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/thermo-fluid/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/publication/conference-paper-2/</loc>
+    <loc>https://github.com/sytanvir/Web.git/publication/conference-paper-2/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/projects/</loc>
+    <loc>https://github.com/sytanvir/Web.git/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/post/get-started/</loc>
+    <loc>https://github.com/sytanvir/Web.git/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/academic/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/post/</loc>
+    <loc>https://github.com/sytanvir/Web.git/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/hugo-blox/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/markdown/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/baby-snake/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/canvas/</loc>
+    <loc>https://github.com/sytanvir/Web.git/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/consol-programming/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/tags/fourier-functions/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/project/games/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/project/graph-simulator/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/tags/graphics-programming/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/tags/linear-algebra/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/project/pendulum-projectile-simulation-on-solar-planets/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/project/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/tags/python/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/tags/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/tags/trigonometry-functions/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/post/second-brain/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/My-Web/post/data-visualization/</loc>
+    <loc>https://github.com/sytanvir/Web.git/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/hugo/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/hugo/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/post/teach-courses/</loc>
+    <loc>https://github.com/sytanvir/Web.git/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/cad/</loc>
+    <loc>https://github.com/sytanvir/Web.git/event/example-copy/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/pro/cad/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/cad/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/design-modeler/</loc>
+    <loc>https://github.com/sytanvir/Web.git/pro/cad/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/experience/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/canvas/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/fusion-360/</loc>
+    <loc>https://github.com/sytanvir/Web.git/event/example/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/gearbox/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/design-modeler/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/pro/gravity-light/</loc>
+    <loc>https://github.com/sytanvir/Web.git/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/hugo-blox-builder/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/fusion-360/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/javascript/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/gearbox/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/karel/</loc>
+    <loc>https://github.com/sytanvir/Web.git/pro/gravity-light/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/teaching/js/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/teaching/python/</loc>
+    <loc>https://github.com/sytanvir/Web.git/teaching/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/power/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/karel/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/pro/</loc>
+    <loc>https://github.com/sytanvir/Web.git/teaching/cfd/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/pro/python/</loc>
+    <loc>https://github.com/sytanvir/Web.git/teaching/cad/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/python-3/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/mathematics/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/solidworks/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/power/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/spaceclaim/</loc>
+    <loc>https://github.com/sytanvir/Web.git/pro/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/teaching/</loc>
+    <loc>https://github.com/sytanvir/Web.git/pro/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/post/project-management/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/python-3/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/sytanvir/Web.git/event/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/sytanvir/Web.git/tags/solidworks/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/sytanvir/Web.git/tags/spaceclaim/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/sytanvir/Web.git/teaching/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/sytanvir/Web.git/tags/tutorials/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://github.com/sytanvir/Web.git/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/</loc>
+    <loc>https://github.com/sytanvir/Web.git/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/csp/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/csp/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/publication/conference-paper-1/</loc>
+    <loc>https://github.com/sytanvir/Web.git/publication/conference-paper-1/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/My-Web/tags/solar-energy/</loc>
+    <loc>https://github.com/sytanvir/Web.git/tags/solar-energy/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

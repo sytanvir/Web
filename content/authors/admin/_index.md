@@ -243,7 +243,7 @@ awards:
 - Mechanical Engineer – Professional services | Provide CFD, CAD, and FEA solutions to clients.
 
 ## Seeking PhD Position 
-- I am a prospective graduate student looking for a supervisor to guide my research in CFD, heat transfer, renewable energy, and robotics, PINNs.
+- I am a prospective graduate student looking for a supervisor to guide my research in CFD, heat transfer, renewable energy, PINNs and robotics.
 
 
 

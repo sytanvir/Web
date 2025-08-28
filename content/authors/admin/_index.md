@@ -237,13 +237,16 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## Current Position
+## Experience
 
-Journal Manager – [ASIDE Journals](https://asidejournals.com/index.php/index/index)  *March 2025 – Present*  
+Journal Manager – [ASIDE Journals](https://asidejournals.com)  
+*March 2025 – Present*  
 Oversee editorial operations and ensure quality peer-reviewed publications.
 
-Mechanical Engineer – Client Services  *March 2025 – Present*  
+Mechanical Engineer – Client Services  
+*March 2025 – Present*  
 Provide CFD, CAD, and FEA solutions to clients.
+
 
 
 

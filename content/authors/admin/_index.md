@@ -239,14 +239,12 @@ awards:
 
 ## Current Position
 
-**Mechanical Engineer | Renewable Energy Researcher**
+**Journal Manager – ASIDE Journals** (May 2025 – Present)  
+Managed editorial workflow and journal operations.  
 
-Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
-Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
+**Mechanical Engineer – Client Services** (March 2025 – Present)  
+Provided CFD, CAD, and FEA solutions to clients.
 
-Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
 
-Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
-Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
 
 

@@ -244,8 +244,7 @@ awards:
 
 ## Seeking PhD Position 
 
-Looking for a PhD supervisor in CFD, fluid dynamics, heat transfer, wind & renewable energy, and robotics.  
-Open to guidance and collaboration on innovative research projects.
+- I am a prospective graduate student looking for a supervisor to guide my research in CFD, heat transfer, renewable energy, and robotics, PINNs.
 
 
 

@@ -239,11 +239,12 @@ awards:
 
 ## Current Position
 
-**Journal Manager – ASIDE Journals** (May 2025 – Present)  
-Managed editorial workflow and journal operations.  
+Journal Manager – [ASIDE Journals](https://asidejournals.com/index.php/index/index)  *March 2025 – Present*  
+Oversee editorial operations and ensure quality peer-reviewed publications.
 
-**Mechanical Engineer – Client Services** (March 2025 – Present)  
-Provided CFD, CAD, and FEA solutions to clients.
+Mechanical Engineer – Client Services  *March 2025 – Present*  
+Provide CFD, CAD, and FEA solutions to clients.
+
 
 
 

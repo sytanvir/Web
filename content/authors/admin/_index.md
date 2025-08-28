@@ -239,7 +239,7 @@ awards:
 
 ## Experience
 
-Journal Manager – [ASIDE Journals](https://asidejournals.com)  
+Journal Manager – ASIDE Journals  
 *March 2025 – Present*  
 Oversee editorial operations and ensure quality peer-reviewed publications.
 

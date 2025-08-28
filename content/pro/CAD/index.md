@@ -1,5 +1,5 @@
 ---
-title: CADA P
+title: CAD
 summary: Computer Aided Design
 date: 2023-10-24
 type: docs

@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: '[mailto:sytanvir.mech@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sytanvir.mech@gmail.com)'
+    url: 'mailto:sytanvir.mech@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sytanvir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKWuYAUOwRdm%2BUAO6jMvvbw%3D%3D

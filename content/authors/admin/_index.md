@@ -242,4 +242,11 @@ awards:
 **Mechanical Engineer | Renewable Energy Researcher**
 
 Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
+Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
+
+Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
+
+Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
+Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
+
 

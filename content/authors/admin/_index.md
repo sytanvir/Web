@@ -240,7 +240,7 @@ awards:
 ## Experience
 
 - Journal Manager – ASIDE Journals (May 2025 – Present) 
-    Oversee editorial operations and ensure quality peer-reviewed publications.
+    Lead editorial operations using Open Journal Systems (OJS)
 
 - Mechanical Engineer – Professional services (March 2025 – Present)  
     Provide CFD, CAD, and FEA solutions to clients.

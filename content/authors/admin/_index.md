@@ -239,7 +239,7 @@ awards:
 
 ## Seeking PhD Supervision
 
-Looking for a PhD supervisor in **CFD, fluid dynamics, heat transfer, wind & renewable energy, and robotics**.  
+Looking for a PhD supervisor in CFD, fluid dynamics, heat transfer, wind & renewable energy, and robotics.  
 Open to guidance and collaboration on innovative research projects.
 
 

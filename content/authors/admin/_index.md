@@ -239,11 +239,12 @@ awards:
 
 ## Current Positions
 
-**Journal Manager – American Society for Inclusion, Diversity, and Equity in Healthcare (ASIDE) Journals)** | May 2025 – Present  
+**Journal Manager** – American Society for Inclusion, Diversity, and Equity in Healthcare (ASIDE) Journals | *March 2025 – Present*  
 Lead editorial operations using Open Journal Systems (OJS).  
 
-**Mechanical Engineer – Engineering Services** | March 2025 – Present  
+**Mechanical Engineer** – Engineering Services | *March 2025 – Present*  
 Provide CFD, CAD, and FEA engineering services to clients.
+
 
 
 

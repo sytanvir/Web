@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:sytanvir.mech@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/sytanvir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKWuYAUOwRdm%2BUAO6jMvvbw%3D%3D
+    url: https://www.linkedin.com/in/sytanvir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIQkfVICMRVGmDSkFNlrE0w%3D%3D
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=PyOAMS8AAAAJ
   - icon: brands/whatsapp

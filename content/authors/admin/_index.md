@@ -239,11 +239,11 @@ awards:
 
 ## Experience
 
-Journal Manager – ASIDE Journals (May 2025 – Present) 
- - Oversee editorial operations and ensure quality peer-reviewed publications.
+- Journal Manager – ASIDE Journals (May 2025 – Present) 
+    Oversee editorial operations and ensure quality peer-reviewed publications.
 
-Mechanical Engineer – Client Services (March 2025 – Present)  
- - Provide CFD, CAD, and FEA solutions to clients.
+- Mechanical Engineer – Professional services (March 2025 – Present)  
+    Provide CFD, CAD, and FEA solutions to clients.
 
 
 

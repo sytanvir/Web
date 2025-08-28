@@ -30,14 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'My Research'
-      subtitle: ''
-      text: |-
-        I am a Mechanical Engineer specializing in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics.    
-    design:
-      columns: '1'
+  #- block: markdown
+    #content:
+      #title: 'My Research'
+      #subtitle: ''
+      #text: |-
+       # I am a Mechanical Engineer specializing in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics.    
+    #design:
+      #columns: '1'
 
   - block: collection
     id: papers

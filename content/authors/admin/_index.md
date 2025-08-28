@@ -237,6 +237,9 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+# Current Position
 
-I am a Mechanical Engineer focused on research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. My expertise lies in optimizing renewable energy systems and advancing sustainable technologies through innovative simulations and designs.
+**Mechanical Engineer | Renewable Energy Researcher**
+
+Actively conducting research in CFD, Concentrated Solar Power (CSP), wind and solar energy, and thermofluid dynamics. Focused on optimizing renewable energy systems and advancing sustainable technologies through innovative simulations, design, and analysis.
+

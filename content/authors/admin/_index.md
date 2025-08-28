@@ -244,7 +244,8 @@ Open to guidance and collaboration on innovative research projects.
 
 
 ## Current Positions
-- Journal Manager – ASIDE Journals | Lead editorial operations using Open Journal Systems (OJS)
+- Journal Manager – ASIDE Journals | Lead editorial operations using Open Journal Systems (OJS).
+
 - Mechanical Engineer – Professional services | Provide CFD, CAD, and FEA solutions to clients.
 
 

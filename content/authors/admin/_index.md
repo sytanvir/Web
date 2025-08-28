@@ -242,7 +242,7 @@ awards:
 
 - Mechanical Engineer – Professional services | Provide CFD, CAD, and FEA solutions to clients.
 
-## Seeking PhD Position | CFD • Heat Transfer • Renewable Energy • PINNs
+## Seeking PhD Position | CFD HeatTransfer Renewable Energy PINNs
 
 Looking for a PhD supervisor in CFD, fluid dynamics, heat transfer, wind & renewable energy, and robotics.  
 Open to guidance and collaboration on innovative research projects.

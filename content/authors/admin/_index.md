@@ -243,12 +243,9 @@ Looking for a PhD supervisor in CFD, fluid dynamics, heat transfer, wind & renew
 Open to guidance and collaboration on innovative research projects.
 
 
-## Experience
-Journal Manager – ASIDE Journals (May 2025 – Present) 
-- Lead editorial operations using Open Journal Systems (OJS)
-
-Mechanical Engineer – Professional services (March 2025 – Present)  
-- Provide CFD, CAD, and FEA solutions to clients.
+## Current Positions
+- Journal Manager – ASIDE Journals | Lead editorial operations using Open Journal Systems (OJS)
+ -Mechanical Engineer – Professional services | Provide CFD, CAD, and FEA solutions to clients.
 
 
 

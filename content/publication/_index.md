@@ -10,7 +10,9 @@ banner:
   caption: ''
   image: ''
 
-design:
+sections:
+  - block: collection
+    id: pro
+    design:
       view: article-grid
-      columns: 3
----
+      columns: 4

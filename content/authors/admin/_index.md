@@ -51,8 +51,8 @@ interests:
   - Computational Solid Mechanics 
 
 education:
-  - area: BSc Mechanical Engineering
-    institution: Shahjalal University of Science And Technology
+  - area: BSc in Mechanical Engineering
+    institution: Shahjalal University of Science And Technology, Sylhet, Bangladesh
     date_start: 2019-01-10
     date_end: 2024-01-15
     GPA: 3.51/4.00

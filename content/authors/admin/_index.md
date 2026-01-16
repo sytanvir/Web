@@ -81,35 +81,47 @@ work:
     company_logo: 'content/authors/admin/avatar.jpg'
     date_start: 2023-01-01
     date_end: 2024-01-15
-    summary: |2-
-      Supervisor: Tahmidul Haque Ruvo, Department of MEE, SUST
-      - Structured entire research scheme under supervision to conduct thesis within timeframe
-      - Modelled field layout using geographical data, Filtered and processed data with Python, used SolarPILOT to carry out the simulation
-      - Processed and visualized data using OriginLab and Tecplot, wrote a thesis report, and presented a conference paper
-
-  - position: Research Assistant (Non-funded)
-    company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-09-01
-    date_end: ''
-    summary: |2-
-      Supervisor: Mostafa Rafid, Department of MEE, SUST
-      - Designed the entire research methodology under supervision
-      - Modeled required solid and fluid geometries, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
-      - Implemented ANSYS Fluent for conducting numerical simulations
-      - Processed and visualized data using OriginLab, Tecplot and ANSYS CFD-Post, wrote a research paper
-
-  - position: Research Intern
-    company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-08-01
-    date_end: 2023-08-31
     summary: |
-      Supervisor: A K M Ashikuzzaman, Department of MEE, SUST(Doctoral candidate, University of Minnesota, USA)
-      - Prepared Airfoil geometries, designed fluid domain, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
-      - Processed and visualized data using OriginLab and Tecplot, wrote multiple research paper, one poster paper accepted and two paper being reviewed
+    - Project Title: Novel CSP Field Layouts for Hill Tracts using Optical Efficiency as the primary parameter
+    - Supervisor: A K MAshikuzzaman, Lecturer and Tahmidul Haque Ruvo, Lecturer, Dept. of ME, SUST
+    
+      - Organized research scheme under supervision to meet thesis deadlines
+      - Modeled CSP layout using geographical data and Python for data processing
+      - Used SolarPILOT to simulate heliostat arrangements and optimize performance
+      - Processed and visualized data with OriginLab and Tecplot
+      - Wrote thesis report and published findings at SSRN
+
+  - position: Research Collaboration
+    company_name: CAD, CAM & Simulation Laboratory, ME, SUST
+    company_url: ''
+    company_logo: 'content/authors/admin/avatar.jpg'
+    date_start: 2022-09-01
+    date_end: 2024-06-30
+    summary: |
+    - Project Title: CFD Analysis of Fin-Tube Heat Exchanger | ICEMCFD, ANSYS Fluent
+    - Supervisor: Mostafa Rafid, Lecturer, Dept. of ME, SUST
+    
+        - Collaborated on thesis, studied five cases, and optimized tube design using CFD models
+        - Applied laminar and turbulent models to analyze heat transfer and pressure drop
+        - Evaluated pumping power and thermal performance of heat exchanger (THPP)
+        - Published findings as a case study in the AIP Conference Proceedings
+
+
+
+  - position: Undergraduate Research Assistant
+    company_name: CAD, CAM & Simulation Laboratory, ME, SUST
+    company_url: ''
+    company_logo: 'content/authors/admin/avatar.jpg'
+    date_start: 2022-08-01
+    date_end: 2023-08-01
+    summary: |
+    - Project Title: CFD Study of VAWT Flow Control | ICEM CFD & ANSYS Fluent
+    - Supervisor: A K Mashikuzzaman, Lecturer, Dept. of ME, SUST
+    
+      - Studied various airfoils for VAWT and optimized lift/drag ratio (Cl/Cd) using Spalart–Allmaras model
+      - Applied passive flow control methods, including flap and trailing-edge gap
+      - Published findings in the AIP Conference Proceedings and on arXiv
+
 
 
 # Skills
@@ -238,7 +250,7 @@ awards:
 - Mechanical Engineer – [AmeriStruct](https://www.ameristruct.org/) | Provide CAD, FEA and CFD solutions
 
 ## Seeking a PhD/MASc Position 
-- I believe in pushing technical boundaries to create solutions that matter. I am pursuing graduate positions to deepen my expertise and drive innovation.
+- I believe in pushing technical boundaries to create solutions that matter. I am seeking a graduate position to deepen my expertise and drive innovation.
  
 
 

@@ -9,4 +9,8 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+design:
+      view: article-grid
+      columns: 3
 ---

@@ -94,6 +94,7 @@ work:
     date_start: 2023-09-01
     date_end: ''
     summary: |2-
+    Title: Novel CSP Field Layouts for Hill Tracts using Optical Efficiency as the primary parameter
       Supervisor: Mostafa Rafid, Department of MEE, SUST
       - Designed the entire research methodology under supervision
       - Modeled required solid and fluid geometries, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions

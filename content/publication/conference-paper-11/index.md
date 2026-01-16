@@ -2,11 +2,11 @@
 title: "Effects of Trailing Edge Thickness on NACA 4412 Airfoil Performance at Low Reynolds Numbers: A CFD Analysis"
 authors:
 - admin
-date: "2024-09-24"
+date: "2024-09-13"
 doi: "https://doi.org/10.48550/arXiv.2409.13922"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-24T00:00:00Z"
+publishDate: "2024-09-13"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

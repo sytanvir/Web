@@ -46,7 +46,6 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
       limit: 6
     design:
       view: article-grid

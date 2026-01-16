@@ -87,5 +87,3 @@ Click the **Cite** button above to easily import this publication's metadata int
 {{% callout note %}}  
 Click the **Slides** button to view the presentation, formatted with Markdown.  
 {{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can include rich formatting like [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

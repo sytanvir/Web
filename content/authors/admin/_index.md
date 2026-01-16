@@ -211,7 +211,7 @@ awards:
     date: '2023-01-21'
     awarder: Autodesk Inc 
     icon: coursera
-    summary: 
+    summary: |
 
 
   - title: 'Autodesk Fusion 360'

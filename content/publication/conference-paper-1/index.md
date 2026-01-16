@@ -90,13 +90,35 @@ Click the **Slides** button to view the presentation, formatted with Markdown.
 
 # Investigation of Optical Efficiency of the Hillside Concentrated Solar Power System
 
-This document presents the simulation and analysis of a **Hillside Concentrated Solar Power (HCSP)** system, utilizing a **V-shape heliostat layout** for improved optical efficiency.
+This document presents the simulation and analysis of a **Hillside Concentrated Solar Power (HCSP)** system, utilizing a **V-shape heliostat layout** for improved optical efficiency in challenging terrains.
 
----
+## V-shape Heliostat Layout Simulation
 
-## Mathematical Model
+- **Project Repository:** [View Project](https://github.com/sytanvir/HCSP-Simulation.git)
+- **Description:** A simulation project analyzing the performance of a **V-shape heliostat layout** on hillside terrains. This study compares it to traditional flat layouts for better optical efficiency.
+- **Course:** Independent Research
+- **Frameworks & Libraries:** Python 3, SolarPILOT, Matplotlib
+- **Key Features:**
+  - Optimized heliostat arrangements for hillside terrains.
+  - Realistic simulation of solar radiation and energy efficiency.
 
-The **solar flux** intensity, which is a key factor in evaluating the performance of heliostat fields, is modeled using the **Hermite analytical method**. The formula for solar flux at any given point is:
+### Results: Flux Profile and Efficiency
+
+**Figure 1**: Flux profiles at **9:00 AM**, **12:00 PM**, and **3:00 PM** on **21st June** at **Location 3**.
+
+![Flux Profile](path_to_flux_profile_image.jpg)
+
+**Table 1**: Optical efficiency at different locations.
+
+| Location   | Efficiency Range (9:00 AM to 3:00 PM) |
+|------------|---------------------------------------|
+| Location 1 | 61% - 66%                             |
+| Location 2 | 62% - 67%                             |
+| Location 3 | 62.5% - 67%                           |
+
+## Mathematical Model for Solar Flux
+
+The **solar flux** intensity is modeled using the **Hermite analytical method**. The formula for solar flux at any given point is:
 
 \[
 F(x, y) = \frac{1}{2 \alpha_x \alpha_y} \exp\left( -\frac{1}{2} \left( \frac{x}{\alpha_x} \right)^2 - \frac{1}{2} \left( \frac{y}{\alpha_y} \right)^2 \right) \sum_{i=0}^{\infty} \sum_{j=0}^{\infty} A_{ij} H_i\left( \frac{x}{\alpha_x} \right) H_j\left( \frac{y}{\alpha_y} \right)
@@ -106,4 +128,33 @@ Where:
 - \( \alpha_x, \alpha_y \) are the standard deviations of the flux distribution.
 - \( H_i, H_j \) are Hermite polynomials.
 - \( A_{ij} \) are the coefficients for the flux intensity.
+
+### Code Implementation
+
+To calculate the solar flux for the **HCSP** system, we use the following Python code:
+
+```python
+import numpy as np
+import math
+
+# Function to calculate solar flux
+def solar_flux(x, y, alpha_x, alpha_y, A_ij):
+    flux = (1 / (2 * alpha_x * alpha_y)) * np.exp(-0.5 * (x / alpha_x) ** 2 - 0.5 * (y / alpha_y) ** 2)
+    hermite_sum = 0
+    for i in range(len(A_ij)):
+        hermite_sum += A_ij[i] * math.hermite(i, x / alpha_x) * math.hermite(i, y / alpha_y)
+    return flux * hermite_sum
+
+# Sample values
+alpha_x = 0.5  # Standard deviation in x direction
+alpha_y = 0.5  # Standard deviation in y direction
+x = np.linspace(-5, 5, 100)  # x values
+y = np.linspace(-5, 5, 100)  # y values
+A_ij = np.random.rand(10)  # Example random values for A_ij coefficients
+
+# Calculate solar flux for given values
+flux_values = np.array([[solar_flux(xi, yi, alpha_x, alpha_y, A_ij) for xi in x] for yi in y])
+
+# Display results (You could use Matplotlib to plot if needed)
+print(flux_values)
 

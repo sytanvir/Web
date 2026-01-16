@@ -238,9 +238,9 @@ awards:
 ---
 
 ## Current Positions
-- Journal Manager (Remote) – ASIDE Journals | Lead editorial operations using Open Journal Systems (OJS).
+- Journal Manager – ASIDE Journals | Lead editorial operations using Open Journal Systems (OJS).
 
-- Mechanical Engineer (Remote) – Ameristruct | Provide CFD, CAD, and FEA solutions to clients.
+- Mechanical Engineer – Professional services | Provide CFD, CAD, and FEA solutions to clients.
 
 ## Seeking PhD Position 
 - I am a prospective graduate student looking for a supervisor to guide my research in CFD, heat transfer, renewable energy, PINNs and robotics.

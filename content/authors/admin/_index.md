@@ -46,9 +46,9 @@ profiles:
 
 interests:
   - Computational Fluid Dynamics
-  - Sustainable Energy (CSP, Wind)
   - Thermo-fluid 
-  - Bio-fluid
+  - Hypersonic Aerothermodynamics
+  - Computational Solid Mechanics 
 
 education:
   - area: BSc Mechanical Engineering
@@ -75,41 +75,55 @@ education:
        
       
 work:
+  - position: Independent Research
+    company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: ''
+    summary: |2-
+      project_title: Thermohydraulic Analysis of SAH via CFD-ICEMCFD, ANSYS Fluent
+      - Optimized thermal-hydraulic performance using novel ribs and RNG k-ε turbulence model
+      - Analyzed flow and heat transfer, identified influential rib configurations
+      - Published findings in AIP Conference Proceedings
+
+
+
   - position: Undergraduate Thesis
-    company_name: Mechanical Engineering Department, SUST
+    company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
     company_url: ''
     company_logo: 'content/authors/admin/avatar.jpg'
     date_start: 2023-01-01
     date_end: 2024-01-15
     summary: |2-
       Supervisor: Tahmidul Haque Ruvo, Department of MEE, SUST
-      - Structured entire research scheme under supervision to conduct thesis within timeframe
-      - Modelled field layout using geographical data, Filtered and processed data with Python, used SolarPILOT to carry out the simulation
-      - Processed and visualized data using OriginLab and Tecplot, wrote a thesis report, and presented a conference paper
+      - Developed ideal V-shaped CSP field layouts and evaluated terrain surfaces in Texas and Arizona
+      - Optimized heliostat arrangement and evaluated optical performance
+      - Published findings at SSRN
 
-  - position: Research Assistant (Non-funded)
+  - position: Research Collaboration
     company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
     company_url: ''
     company_logo: ''
-    date_start: 2023-09-01
-    date_end: ''
+    date_start: 2022-09-01
+    date_end: 2024-06-30
     summary: |2-
       Supervisor: Mostafa Rafid, Department of MEE, SUST
-      - Designed the entire research methodology under supervision
-      - Modeled required solid and fluid geometries, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
-      - Implemented ANSYS Fluent for conducting numerical simulations
-      - Processed and visualized data using OriginLab, Tecplot and ANSYS CFD-Post, wrote a research paper
+      - Collaborated on thesis, studied five cases, optimized tube designs using laminar and turbulent models
+      - Analyzed heat transfer, pressure drop, pumping power, and thermal hydraulic performance
+      - Published findings at AIP
 
-  - position: Research Intern
+  - position: Undergraduate Research Assistant
     company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
     company_url: ''
     company_logo: ''
     date_start: 2022-08-01
     date_end: 2023-08-31
-    summary: |
-      Supervisor: A K M Ashikuzzaman, Department of MEE, SUST(Doctoral candidate, University of Minnesota, USA)
-      - Prepared Airfoil geometries, designed fluid domain, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
-      - Processed and visualized data using OriginLab and Tecplot, wrote multiple research paper, one poster paper accepted and two paper being reviewed
+    summary: |2-
+      Supervisor: A K M Ashikuzzaman, Department of MEE, SUST
+      - Studied various airfoils for VAWT, applied Spalart–Allmaras turbulence model, optimized Cl/Cd
+      - Implemented passive flow control using flap and trailing-edge gap
+      - Published findings at AIP and arXiv
 
 
 # Skills

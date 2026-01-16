@@ -4,11 +4,11 @@ authors:
 - Mahadi Hasan Shanto
 - admin
 - A K M Ashikuzzaman
-date: "2024-09-14"
+date: "2024"
 doi: "https://doi.org/10.48550/arXiv.2409.14258"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-14"
+publishDate: "2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

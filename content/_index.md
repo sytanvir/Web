@@ -73,7 +73,7 @@ sections:
       limit: 4 # Ensure that only 3 projects are displayed
     design:
       view: article-grid
-      columns: 4 # Display 3 projects side by side
+      columns: 3 # Display 3 projects side by side
 
   - block: collection
     content:

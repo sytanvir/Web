@@ -46,7 +46,6 @@ sections:
       filters:
         folders:
           - publication
-      limit: 6
     design:
       view: article-grid
       columns: 3

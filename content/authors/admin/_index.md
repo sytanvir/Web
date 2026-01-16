@@ -117,7 +117,7 @@ work:
 skills:
   - name: Simulation 
     items:
-      - name: ANSYS
+      - name: FLUENT
         description: ''
         percent: 100
         icon: cpu-chip

@@ -70,10 +70,10 @@ sections:
       filters:
         folders:
           - pro # Make sure this folder contains your project files
-      limit: 6 # Ensure that only 3 projects are displayed
+      limit: 4 # Ensure that only 3 projects are displayed
     design:
       view: article-grid
-      columns: 3 # Display 3 projects side by side
+      columns: 4 # Display 3 projects side by side
 
   - block: collection
     content:

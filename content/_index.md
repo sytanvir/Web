@@ -51,17 +51,17 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: collection
-    id: preprints
-    content:
-      title: Preprints (arXiv)
-      filters:
-        folders:
-          - preprints
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  #- block: collection
+   # id: preprints
+   # content:
+   #   title: Preprints (arXiv)
+     # filters:
+      #  folders:
+     #     - preprints
+     #   featured_only: true
+    #design:
+     # view: article-grid
+    #  columns: 2
       
   - block: collection
     id: projects

@@ -242,7 +242,7 @@ awards:
 - Mechanical Engineer – [AmeriStruct](https://www.ameristruct.org/) | Provide CAD, FEA and CFD solutions
 
 ## Seeking PhD/MASc Position 
-- I am a prospective graduate student looking for a supervisor to guide my research in CFD, heat transfer, renewable energy, PINNs and robotics.
+- I believe in pushing technical boundaries to create solutions that matter. I am pursuing graduate positions to deepen my expertise and drive innovation.
  
 
 

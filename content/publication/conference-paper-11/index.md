@@ -71,4 +71,3 @@ This work is driven by the results in my [previous paper](/publication/conferenc
 Click the **Slides** button to view the presentation, formatted with Markdown.  
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can include rich formatting like [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

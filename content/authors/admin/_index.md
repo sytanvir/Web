@@ -48,7 +48,7 @@ interests:
   - Computational Fluid Dynamics
   - Thermo-fluid 
   - Hypersonic Aerothermodynamics
-  - Computational Solid Mechanics Dynamics
+  - Computational Solid Mechanics 
 
 education:
   - area: BSc Mechanical Engineering

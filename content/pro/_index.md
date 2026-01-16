@@ -19,5 +19,5 @@ sections:
           - pro
     design:
       view: article-grid
-      columns: 4
+      columns: 2
 ---

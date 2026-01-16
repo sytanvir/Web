@@ -1,10 +1,5 @@
 ---
-title: "Solar CSP Presentation"
-author: "Your Name"
-date: "2024-02-01"
-geometry: margin=1in
-fontsize: 12pt
-output: pdf_document
+title: 'Investigation of Optical Efficiency of the Concentrated Solar Power System Located on the Inclined Hillside Areas'
 ---
 
 # Slide 1: Introduction to CSP

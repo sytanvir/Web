@@ -204,10 +204,6 @@ awards:
     awarder: DeepLearning.AI
     icon: deeplearning_ai
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
 
   - title: 'Programming for Everybody'
     url: https://www.coursera.org/account/accomplishments/certificate/ZNU47CCKYVNP
@@ -216,7 +212,7 @@ awards:
     awarder: Autodesk Inc 
     icon: coursera
     summary: 
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 
   - title: 'Autodesk Fusion 360'
     url: https://www.linkedin.com/in/sytanvir/details/certifications/1635547379581/single-media-viewer?type=IMAGE&profileId=ACoAADHEWpgBrIgGdhd9R40gTmMySAi-7lAkuZM&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BB6okBb1JS0Cne3lsYlc7Nw%3D%3D
@@ -225,7 +221,7 @@ awards:
     awarder: Autodesk, Inc 
     icon: Autodesk
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 
   - title: 'Work Smarter with Microsoft Excel'
     url: https://www.coursera.org/account/accomplishments/certificate/ZNU47CCKYVNP
@@ -234,7 +230,7 @@ awards:
     awarder: Microsoft
     icon: coursera
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
 ---
 
 ## Current Positions

@@ -1,6 +1,6 @@
 ---
 title: CAD
-summary: Computer Aided Design
+summary: Computer Aided Design Portfolio
 date: 2023-10-24
 type: docs
 math: false

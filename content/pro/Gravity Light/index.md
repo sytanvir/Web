@@ -1,6 +1,6 @@
 ---
 title: Gravity Light Project
-summary: Academic Project on Energy Conversion using Gravity
+summary: Academic Project 
 date: 2023-10-24
 type: docs
 math: false

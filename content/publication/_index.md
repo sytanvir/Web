@@ -9,10 +9,3 @@ view: citation
 banner:
   caption: ''
   image: ''
-
-sections:
-  - block: collection
-    id: publication
-    design:
-      view: article-grid
-      columns: 4

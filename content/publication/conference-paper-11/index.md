@@ -2,7 +2,7 @@
 title: "Effects of Trailing Edge Thickness on NACA 4412 Airfoil Performance at Low Reynolds Numbers: A CFD Analysis"
 authors:
 - admin
-date: "2024-09-24T00:00:00Z"
+date: "2024-09-24"
 doi: "https://doi.org/10.48550/arXiv.2409.13922"
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ tags:
   - wind power
   - Renewable energy
 
-#featured: false
+featured: true
 
 links:
 #- name: Custom Link

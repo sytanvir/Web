@@ -82,14 +82,14 @@ work:
     date_start: 2023-01-01
     date_end: 2024-01-15
     summary: |
-    - Project Title: Novel CSP Field Layouts for Hill Tracts using Optical Efficiency as the primary parameter
-    - Supervisor: A K MAshikuzzaman, Lecturer and Tahmidul Haque Ruvo, Lecturer, Dept. of ME, SUST
+      - Project Title: Novel CSP Field Layouts for Hill Tracts using Optical Efficiency as the primary parameter
+      - Supervisor: A K MAshikuzzaman, Lecturer and Tahmidul Haque Ruvo, Lecturer, Dept. of ME, SUST
     
-      - Organized research scheme under supervision to meet thesis deadlines
-      - Modeled CSP layout using geographical data and Python for data processing
-      - Used SolarPILOT to simulate heliostat arrangements and optimize performance
-      - Processed and visualized data with OriginLab and Tecplot
-      - Wrote thesis report and published findings at SSRN
+        - Organized research scheme under supervision to meet thesis deadlines
+        - Modeled CSP layout using geographical data and Python for data processing
+        - Used SolarPILOT to simulate heliostat arrangements and optimize performance
+        - Processed and visualized data with OriginLab and Tecplot
+        - Wrote thesis report and published findings at SSRN
 
   - position: Research Collaboration
     company_name: CAD, CAM & Simulation Laboratory, ME, SUST
@@ -98,9 +98,9 @@ work:
     date_start: 2022-09-01
     date_end: 2024-06-30
     summary: |
-    - Project Title: CFD Analysis of Fin-Tube Heat Exchanger | ICEMCFD, ANSYS Fluent
-    - Supervisor: Mostafa Rafid, Lecturer, Dept. of ME, SUST
-    
+      - Project Title: CFD Analysis of Fin-Tube Heat Exchanger | ICEMCFD, ANSYS Fluent
+      - Supervisor: Mostafa Rafid, Lecturer, Dept. of ME, SUST
+      
         - Collaborated on thesis, studied five cases, and optimized tube design using CFD models
         - Applied laminar and turbulent models to analyze heat transfer and pressure drop
         - Evaluated pumping power and thermal performance of heat exchanger (THPP)
@@ -114,12 +114,12 @@ work:
     date_start: 2022-08-01
     date_end: 2023-08-01
     summary: |
-    - Project Title: CFD Study of VAWT Flow Control | ICEM CFD & ANSYS Fluent
-    - Supervisor: A K Mashikuzzaman, Lecturer, Dept. of ME, SUST
-    
-      - Studied various airfoils for VAWT and optimized lift/drag ratio (Cl/Cd) using Spalart–Allmaras model
-      - Applied passive flow control methods, including flap and trailing-edge gap
-      - Published findings in the AIP Conference Proceedings and on arXiv.
+      - Project Title: CFD Study of VAWT Flow Control | ICEM CFD & ANSYS Fluent
+      - Supervisor: A K Mashikuzzaman, Lecturer, Dept. of ME, SUST
+      
+        - Studied various airfoils for VAWT and optimized lift/drag ratio (Cl/Cd) using Spalart–Allmaras model
+        - Applied passive flow control methods, including flap and trailing-edge gap
+        - Published findings in the AIP Conference Proceedings and on arXiv.
 
 
 

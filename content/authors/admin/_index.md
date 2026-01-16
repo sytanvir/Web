@@ -82,7 +82,7 @@ work:
     date_start: 2023-01-01
     date_end: 2024-01-15
     summary: |2-
-      Supervisor: Tahmidul Haque Ruvo, Department of MEE, SUST
+      Supervisor: Tahmidul Haque Ruvo
       - Structured entire research scheme under supervision to conduct thesis within timeframe
       - Modelled field layout using geographical data, Filtered and processed data with Python, used SolarPILOT to carry out the simulation
       - Processed and visualized data using OriginLab and Tecplot, wrote a thesis report, and presented a conference paper

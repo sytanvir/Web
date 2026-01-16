@@ -5,11 +5,8 @@ date: 2023-10-24
 type: docs
 math: false
 tags:
-  - CAD
-  - Solidworks
-  - Fusion 360
-  - Design Modeler
-  - Spaceclaim
+  - FEA
+  - Ansys
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

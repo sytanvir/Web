@@ -12,7 +12,7 @@ banner:
 
 sections:
   - block: collection
-    id: pro
+    id: publication
     design:
       view: article-grid
       columns: 4

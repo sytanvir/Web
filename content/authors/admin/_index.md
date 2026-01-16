@@ -238,10 +238,10 @@ awards:
 ---
 
 ## Current Positions
-- Journal Manager – [ASIDE Journals](https://asidejournals.com/) | Lead Technical and Editorial operations.
-- Mechanical Engineer – [AmeriStruct](https://www.ameristruct.org/) | Provide CAD, FEA and CFD solutions.
+- Journal Manager – [ASIDE Journals](https://asidejournals.com/) | Lead Technical and Editorial operations
+- Mechanical Engineer – [AmeriStruct](https://www.ameristruct.org/) | Provide CAD, FEA and CFD solutions
 
-## Seeking PhD Position 
+## Seeking PhD/MASc Position 
 - I am a prospective graduate student looking for a supervisor to guide my research in CFD, heat transfer, renewable energy, PINNs and robotics.
  
 

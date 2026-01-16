@@ -100,16 +100,6 @@ work:
       - Implemented ANSYS Fluent for conducting numerical simulations
       - Processed and visualized data using OriginLab, Tecplot and ANSYS CFD-Post, wrote a research paper
 
-  - position: Research Intern
-    company_name: CAD-CAM Simulation Laboratory, Mechanical Engineering, SUST
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-08-01
-    date_end: 2023-08-31
-    summary: |
-      Supervisor: A K M Ashikuzzaman, Department of MEE, SUST(Doctoral candidate, University of Minnesota, USA)
-      - Prepared Airfoil geometries, designed fluid domain, discretized computational domain using ANSYS ICEM CFD Meshing tool, and developed different boundary conditions
-      - Processed and visualized data using OriginLab and Tecplot, wrote multiple research paper, one poster paper accepted and two paper being reviewed
 
 
 # Skills

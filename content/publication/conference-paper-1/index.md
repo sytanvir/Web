@@ -88,4 +88,53 @@ Click the **Cite** button above to easily import this publication's metadata int
 Click the **Slides** button to view the presentation, formatted with Markdown.  
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can include rich formatting like [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+# Investigation of Optical Efficiency of the Hillside Concentrated Solar Power System
+
+This document presents the simulation and analysis of a **Hillside Concentrated Solar Power (HCSP)** system, utilizing a **V-shape heliostat layout** for improved optical efficiency.
+
+---
+
+## Mathematical Model
+
+The **solar flux** intensity, which is a key factor in evaluating the performance of heliostat fields, is modeled using the **Hermite analytical method**. The formula for solar flux at any given point is:
+
+\[
+F(x, y) = \frac{1}{2 \alpha_x \alpha_y} \exp\left( -\frac{1}{2} \left( \frac{x}{\alpha_x} \right)^2 - \frac{1}{2} \left( \frac{y}{\alpha_y} \right)^2 \right) \sum_{i=0}^{\infty} \sum_{j=0}^{\infty} A_{ij} H_i\left( \frac{x}{\alpha_x} \right) H_j\left( \frac{y}{\alpha_y} \right)
+\]
+
+Where:
+- \( \alpha_x, \alpha_y \) are the standard deviations of the flux distribution.
+- \( H_i, H_j \) are Hermite polynomials.
+- \( A_{ij} \) are the coefficients for the flux intensity.
+
+---
+
+## Code Implementation
+
+To calculate the solar flux, we use the following Python code:
+
+```python
+import numpy as np
+import math
+
+# Function to calculate solar flux
+def solar_flux(x, y, alpha_x, alpha_y, A_ij):
+    flux = (1 / (2 * alpha_x * alpha_y)) * np.exp(-0.5 * (x / alpha_x) ** 2 - 0.5 * (y / alpha_y) ** 2)
+    hermite_sum = 0
+    for i in range(len(A_ij)):
+        hermite_sum += A_ij[i] * math.hermite(i, x / alpha_x) * math.hermite(i, y / alpha_y)
+    return flux * hermite_sum
+
+# Sample values
+alpha_x = 0.5  # Standard deviation in x direction
+alpha_y = 0.5  # Standard deviation in y direction
+x = np.linspace(-5, 5, 100)  # x values
+y = np.linspace(-5, 5, 100)  # y values
+A_ij = np.random.rand(10)  # Example random values for A_ij coefficients
+
+# Calculate solar flux for given values
+flux_values = np.array([[solar_flux(xi, yi, alpha_x, alpha_y, A_ij) for xi in x] for yi in y])
+
+# Display results (You could use Matplotlib to plot if needed)
+print(flux_values)
+

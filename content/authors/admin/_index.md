@@ -107,7 +107,6 @@ work:
         - Published findings as a case study in the AIP Conference Proceedings
 
 
-
   - position: Undergraduate Research Assistant
     company_name: CAD, CAM & Simulation Laboratory, ME, SUST
     company_url: ''
@@ -120,7 +119,7 @@ work:
     
       - Studied various airfoils for VAWT and optimized lift/drag ratio (Cl/Cd) using Spalart–Allmaras model
       - Applied passive flow control methods, including flap and trailing-edge gap
-      - Published findings in the AIP Conference Proceedings and on arXiv
+      - Published findings in the AIP Conference Proceedings and on arXiv.
 
 
 

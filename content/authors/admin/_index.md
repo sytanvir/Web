@@ -245,7 +245,7 @@ awards:
 ---
 
 ## Current Positions
-- Journal Manager – [ASIDE Journals](https://asidejournals.com/) | Lead Technical and Editorial operations
+- Journal Manager – [ASIDE Journals](https://asidejournals.com/) | Lead Technical and Editorial operations.
 
 ## Seeking a PhD/MASc Position 
 - I believe in pushing technical boundaries to create solutions that matter. I am seeking a graduate position to deepen my expertise and drive innovation.

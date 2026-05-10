@@ -246,7 +246,6 @@ awards:
 
 ## Current Positions
 - Journal Manager – [ASIDE Journals](https://asidejournals.com/) | Lead Technical and Editorial operations
-- Mechanical Engineer – [AmeriStruct](https://www.ameristruct.org/) | Provide CAD, FEA and CFD solutions
 
 ## Seeking a PhD/MASc Position 
 - I believe in pushing technical boundaries to create solutions that matter. I am seeking a graduate position to deepen my expertise and drive innovation.
